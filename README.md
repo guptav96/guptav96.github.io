@@ -13,6 +13,20 @@ _Passionate about Machine Learning and AI, software development and finance._
 - **_Technologies used:_** C++, Python, NodeJS, HTML, CSS, Javascript ES6, React, Redux
 <br><br>
 
+**Research Intern, Big Data Experience Lab, Adobe Inc.** _(May 2017 - July 2017)_ <br>
+_(Mentor: Anandhavelu Natarajan)_ <br>
+- Developed a novel technique in natural language processing and deep learning using LSTM to obtain state-of-the-art
+results for predicting style breaches in text.
+- Devised a model to provide consistent style to the text using structural and lexical transformations.
+- Patent issued for the work is
+- **_Technologies used:_** Python, Deep Learning, Natural Language Processing, Recurrent Neural Networks.
+
+
+**Summer Research Fellow** @ [CEERI, Pilani](https://www.ceeri.res.in/) _(May 2016 - July 2016)_ <br>
+_(Mentor: Dr. S.A. Akbar and Dr. Santanu Chaudhury)_ <br>
+- Analyzed time-series data from semiconductor gas sensors in response to different atmospheric gases by performing pattern recognition techniques in varying environmental conditions in a custom laboratory setting.
+- Implemented a model to predict the concentration of gases using an ensemble of supervised learning algorithms.
+
 # Header 1
 ## Header 2
 ### Header 3
