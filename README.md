@@ -1,15 +1,17 @@
-## Welcome to GitHub Pages
+# Vivek Gupta
 
-You can use the [editor on GitHub](https://github.com/guptav96/digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Pursuing Masters in Computer Science from Purdue University._ <br>
+_Passionate about Machine Learning and AI, software development and finance._
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
++1(765)-701-9946 / [Email](mailto:gupta690@purdue.edu) / [LinkedIn](https://www.linkedin.com/in/guptav96/) / [GitHub](https://github.com/guptav96/)
 
-### Markdown
+## 👨‍💻 Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+**Software Development Engineer II** @ [Adobe Inc.](https://www.adobe.com/) _(July 2018 - Aug 2021)_ <br>
+- Worked on an internal open-source Adobe framework ([UXP](https://www.adobe.io/photoshop/uxp/)) that provides extensibility for multi-platform application development using familiar web technologies such as React and HTML.
+- Integrated Cloud Documents, Neural Filters, Sharesheet, Timeline and various other plugins in Adobe flagship applications - Photoshop, XD, Illustrator, InDesign and Premier Pro to build a platform agnostic robust framework in order to drive customer acquisition and improve customer experience.
+- **_Technologies used:_** C++, Python, NodeJS, HTML, CSS, Javascript ES6, React, Redux
+<br><br>
 
 # Header 1
 ## Header 2
