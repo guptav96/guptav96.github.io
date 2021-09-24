@@ -13,7 +13,7 @@ _Passionate about Machine Learning and AI, software development and finance._
 
 **Bachelor of Technology** @ [IIT Roorkee](https://www.iitr.ac.in/Main/pages/_en_Indian_Institute_of_Technology_Roorkee__en_.html), India _(July 2014 - May 2018)_
 - Majored in Electronics and Communication Engineering, and minor in Computer Science.
-- GPA of 8.733 out of 10.
+- GPA of _8.733_ out of _10_.
 - Awarded Merit Scholarship based on academic performance for complete duration
 - Teaching Assistant for MAN-002 (Mathematical Methods) in senior year.
 
@@ -49,7 +49,7 @@ _(Mentor: Prof. Dharmendra Singh)_ <br>
 <br><br>
 
 ## 🖺 Patent
-**Vivek Gupta**, Basava Raj K.,  Pranav Ravindra Maneriker, Anandhevelu Natarajan, "Predicting style breaches within textual content", Pub. No.: US 2019/0147034A1.
+**Vivek Gupta**, Basava Raj K.,  Pranav Ravindra Maneriker, Anandhevelu Natarajan, "**[Predicting style breaches within textual content](https://patents.google.com/patent/US20200250375A1/en)**", Pub. No.: US 2019/0147034A1.
 
 ## 💻 Projects
 **LASeR Routing in Distributed Cooperative Localized Mobile WSNs** _(July 2017 - April 2018)_<br>
@@ -85,16 +85,16 @@ Software Tools & Packages: XCode, MS Visual Studio, Eclipse, Xilinx ISE, SPICEo
 
 ## 📌 Extracurriculars and Volunteer Activities
 
-- **Mentor, Technovation**: Mentored a senior group of six girls in developing a mobile application which aims to cater to real-world challenges of our society.
+- **Mentor, [Technovation](https://technovationchallenge.org/)**: Mentored a senior group of six girls in developing a mobile application which aims to cater to real-world challenges of our society.
 - **Mentor, C++ Bootcamp**: Mentored a group of new campus graduates at Adobe to learn about C++ fundamentals and develop a C++ application.
 - **Mentor, Student Mentorship Program**: Guided a group of seven students aimed at better senior-junior interactions.
-- **Member, Programming and Algorithms Group**: Organized programming lectures, events and competitions with the aim of improving the algorithmic and problem-solving ability of students.
+- **Member, [Programming and Algorithms Group](http://pag.iitr.ac.in/)**: Organized programming lectures, events and competitions with the aim of improving the algorithmic and problem-solving ability of students.
 - **Organizer, Departmental Cognizance, ECE**: Organized events ‘Spectrum’ and ‘Photonising’ for three consecutive years in Cognizance, the large-scale Annual Technical Festival of IIT Roorkee.
 
 ## 🏆 Awards and Recognition
 - Best Paper Award for Sensor Routing Protocol with Optimized delay and overhead in mobile WSNs in the international conference ICFIRTP-2020.
 - Spot Award in 2019 & 2020 by Adobe for outstanding contribution to Adobe Creative Suite deliverables.
 - Best Project Award in Java and Web Technologies Boot Camp 2018 by Adobe.
-- IITR Development Award during Annual Techno-Hobby Exhibition, 2016.
-- KVPY Fellowship from the Government of India for inclination towards scientific research.
+- IITR Development Award during Annual [Techno-Hobby Exhibition](https://srishti.iitr.ac.in/), 2016.
+- [KVPY Fellowship](http://www.kvpy.iisc.ernet.in/main/index.htm) from the Government of India for inclination towards scientific research.
 - Title of Amul Vidya Shree for being a top rank holder in board examinations for standard X and XII.
