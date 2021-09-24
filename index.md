@@ -82,7 +82,7 @@ highly fluctuating daily foreign exchange rates.
 
 ## 📌 Extracurriculars and Volunteer Activities
 
-![Volunteer](/assets/bag_dist.jpeg)
+<!-- ![Volunteer](/assets/bag_dist.jpeg) -->
 
 - **Mentor, [Technovation](https://technovationchallenge.org/), 2020**: Mentored a senior group of six girls in developing a mobile application which aims to cater to real-world challenges of our society.
 - **Mentor, C++ Bootcamp, 2020**: Mentored a group of new campus graduates at Adobe to learn about C++ fundamentals and develop a C++ application.
@@ -96,5 +96,5 @@ highly fluctuating daily foreign exchange rates.
 - Spot Award in 2019 & 2020 by Adobe for outstanding contribution to Adobe Creative Suite deliverables.
 - Best Project Award in Java and Web Technologies Boot Camp 2018 by Adobe.
 - IITR Development Award during Annual [Techno-Hobby Exhibition](https://srishti.iitr.ac.in/), 2016.
-- [KVPY Fellowship] in 2014 (http://www.kvpy.iisc.ernet.in/main/index.htm) from the Government of India for inclination towards scientific research.
+- [KVPY Fellowship](http://www.kvpy.iisc.ernet.in/main/index.htm) in 2014 from the Government of India for inclination towards scientific research.
 - Title of Amul Vidya Shree for being a top rank holder in board examinations for standard X and XII.
