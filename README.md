@@ -36,10 +36,58 @@ _(Mentor: Prof. Dharmendra Singh)_ <br>
 - **_Technologies used:_** MATLAB, Image Processing, Exiftool.
 <br><br>
 
+## 🖺 Patent
+**Vivek Gupta**, Basava Raj K.,  Pranav Ravindra Maneriker, Anandhevelu Natarajan, "Predicting style breaches within textual content", Pub. No.: US 2019/0147034A1.
+
 ## 💻 Projects
+**LASeR Routing in Distributed Cooperative Localized Mobile WSNs** _(July 2017 - April 2018)_<br>
+_(Mentor: Prof. Pyari Mohan Pradhan, IIT Roorkee)_ <br>
+- Simulated location aware sensor routing protocol in NS2 simulator to demonstrate its superiority against traditional AODV routing protocol.
+- Developed distributed cooperative localization algorithm based on maximum likelihood (ML) and second-order cone programming (SOCP) to solve the localization issue in the network.
+<br><br> 
+
 **Hand Sign Character Recognition** _(Jan 2017 - April 2017)_<br>
 _(Mentor: Dr. Debashis Ghosh, Professor, IIT Roorkee)_ <br>
 - Performed Skin Segmentation based on YCbCr and RGB model to segment the hand from input images.
 - Employed CNN by learning feature maps using STL-10 database and evaluated the results with LibSVM while
 recognizing static gestures.
 <br><br>
+
+**Daily Foreign Rates Exchange Prediction** _(March 2017 - April 2017)_<br>
+_(Mentor: Dr G.N. Pillai, Professor, IIT Roorkee)_ <br>
+- Implemented four different time-forecasting models – ARIMA, GARCH and SVR (RBF and Linear Kernel) to predict
+highly fluctuating daily foreign exchange rates.
+<br><br>
+
+**Cashless Campus** _(November 2015 - March 2016)_<br>
+- Developed a biometric authentication device to make cashless secure payments using Arduino and Raspberry Pi technologies.
+<br><br>
+
+**Embedded Systems Project** 
+- used an FPGA board to display an image on a standard VGA display interface, using Verilog HDL.
+
+## 📌 EXTRACURRICULARS AND VOLUNTEER ACTIVITIES
+
+**Mentor, Technovation**
+- Mentored a senior group of six girls in developing a mobile application which aims to cater to real-world challenges of our society.
+
+**Mentor, C++ Bootcamp** 
+- Mentored a group of new campus graduates at Adobe to learn about C++ fundamentals and develop a C++ application.
+
+**Mentor, Student Mentorship Program** 
+- Guided a group of seven students aimed at better senior-junior interactions.
+
+**Member, Programming and Algorithms Group**
+- Organized programming lectures, events and competitions with the aim of improving the algorithmic and problem-solving ability of students.
+
+**Organizer, Departmental Cognizance, ECE**
+- Organized events ‘Spectrum’ and ‘Photonising’ for three consecutive years in Cognizance, the large-scale Annual Technical Festival of IIT Roorkee.
+
+## 🏆 Awards and Recognition
+- Best Paper Award for Sensor Routing Protocol with Optimized delay and overhead in mobile WSNs in the international conference ICFIRTP-2020.
+- Spot Award in 2019 & 2020 by Adobe for outstanding contribution to Adobe Creative Suite deliverables.
+- Best Project Award in Java and Web Technologies Boot Camp 2018 by Adobe.
+- Merit-Cum-Means Scholarship at IIT Roorkee for academic excellence in all four consecutive years.
+- IITR Development Award during Annual Techno-Hobby Exhibition, 2016.
+- KVPY Fellowship from the Government of India for inclination towards scientific research.
+- Title of Amul Vidya Shree for being a top rank holder in board examinations for standard X and XII.
