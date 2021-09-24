@@ -82,6 +82,8 @@ highly fluctuating daily foreign exchange rates.
 
 ## 📌 Extracurriculars and Volunteer Activities
 
+![Volunteer](/assets/bag_dist.jpeg)
+
 - **Mentor, [Technovation](https://technovationchallenge.org/)**: Mentored a senior group of six girls in developing a mobile application which aims to cater to real-world challenges of our society.
 - **Mentor, C++ Bootcamp**: Mentored a group of new campus graduates at Adobe to learn about C++ fundamentals and develop a C++ application.
 - **Mentor, Student Mentorship Program**: Guided a group of seven students aimed at better senior-junior interactions.
