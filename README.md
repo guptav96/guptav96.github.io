@@ -3,12 +3,12 @@
 _Pursuing Masters in Computer Science from Purdue University._ <br>
 _Passionate about Machine Learning and AI, software development and finance._
 
-+1(765)-701-9946 / [Email](mailto:gupta690@purdue.edu) / [LinkedIn](https://www.linkedin.com/in/guptav96/) / [GitHub](https://github.com/guptav96/)
+(765)-701-9946 / [Email](mailto:gupta690@purdue.edu) / [LinkedIn](https://www.linkedin.com/in/guptav96/) / [GitHub](https://github.com/guptav96/)
 
 ## 🏫 Education
 
 **Masters in Computer Science** @ [Purdue University](https://www.purdue.edu/), West Lafayette _(August 2021 - Present)_ <br>
-- Also employed as Teaching Assistant in Computer Science Department for CS251.
+- Employed as Teaching Assistant in Computer Science Department for CS251-Data Structures.
 <br>
 
 **Bachelor of Technology** @ [IIT Roorkee](https://www.iitr.ac.in/Main/pages/_en_Indian_Institute_of_Technology_Roorkee__en_.html), India _(July 2014 - May 2018)_
@@ -81,6 +81,8 @@ highly fluctuating daily foreign exchange rates.
 <br><br>
 
 ## 📌 Extracurriculars and Volunteer Activities
+
+![Volunteer](/assets/bag_dist.jpeg)
 
 - **Mentor, [Technovation](https://technovationchallenge.org/)**: Mentored a senior group of six girls in developing a mobile application which aims to cater to real-world challenges of our society.
 - **Mentor, C++ Bootcamp**: Mentored a group of new campus graduates at Adobe to learn about C++ fundamentals and develop a C++ application.
