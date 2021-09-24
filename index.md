@@ -84,11 +84,11 @@ highly fluctuating daily foreign exchange rates.
 
 ![Volunteer](/assets/bag_dist.jpeg)
 
-- **Mentor, [Technovation](https://technovationchallenge.org/)**: Mentored a senior group of six girls in developing a mobile application which aims to cater to real-world challenges of our society.
-- **Mentor, C++ Bootcamp**: Mentored a group of new campus graduates at Adobe to learn about C++ fundamentals and develop a C++ application.
-- **Mentor, Student Mentorship Program**: Guided a group of seven students aimed at better senior-junior interactions.
-- **Member, [Programming and Algorithms Group](http://pag.iitr.ac.in/)**: Organized programming lectures, events and competitions with the aim of improving the algorithmic and problem-solving ability of students.
-- **Organizer, Departmental Cognizance, ECE**: Organized events ‘Spectrum’ and ‘Photonising’ for three consecutive years in Cognizance, the large-scale Annual Technical Festival of IIT Roorkee.
+- **Mentor, [Technovation](https://technovationchallenge.org/), 2020**: Mentored a senior group of six girls in developing a mobile application which aims to cater to real-world challenges of our society.
+- **Mentor, C++ Bootcamp, 2020**: Mentored a group of new campus graduates at Adobe to learn about C++ fundamentals and develop a C++ application.
+- **Mentor, Student Mentorship Program, 2017**: Guided a group of seven students aimed at better senior-junior interactions.
+- **Member, [Programming and Algorithms Group], 2015-16(http://pag.iitr.ac.in/)**: Organized programming lectures, events and competitions with the aim of improving the algorithmic and problem-solving ability of students.
+- **Organizer, Departmental Cognizance, ECE, 2015-17**: Organized events ‘Spectrum’ and ‘Photonising’ for three consecutive years in Cognizance, the large-scale Annual Technical Festival of IIT Roorkee.
 <br><br>
 
 ## 🏆 Awards and Recognition
@@ -96,5 +96,5 @@ highly fluctuating daily foreign exchange rates.
 - Spot Award in 2019 & 2020 by Adobe for outstanding contribution to Adobe Creative Suite deliverables.
 - Best Project Award in Java and Web Technologies Boot Camp 2018 by Adobe.
 - IITR Development Award during Annual [Techno-Hobby Exhibition](https://srishti.iitr.ac.in/), 2016.
-- [KVPY Fellowship](http://www.kvpy.iisc.ernet.in/main/index.htm) from the Government of India for inclination towards scientific research.
+- [KVPY Fellowship] in 2014 (http://www.kvpy.iisc.ernet.in/main/index.htm) from the Government of India for inclination towards scientific research.
 - Title of Amul Vidya Shree for being a top rank holder in board examinations for standard X and XII.
