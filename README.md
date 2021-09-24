@@ -5,6 +5,17 @@ _Passionate about Machine Learning and AI, software development and finance._
 
 +1(765)-701-9946 / [Email](mailto:gupta690@purdue.edu) / [LinkedIn](https://www.linkedin.com/in/guptav96/) / [GitHub](https://github.com/guptav96/)
 
+## 🏫 Education
+
+**Masters in Computer Science** @ [Purdue University](https://www.purdue.edu/), West Lafayette _(August 2021 - Present) <br>
+- Also employed as Teaching Assistant in Computer Science Department for CS251 
+**Bachelor of Technology** @ [IIT Roorkee](https://www.iitr.ac.in/Main/pages/_en_Indian_Institute_of_Technology_Roorkee__en_.html), India _(July 2014 - May 2018)
+- Majored in Electronics and Communication Engineering, and minor in Computer Science.
+- GPA of 8.733 out of 10.
+- Awarded Merit Scholarship based on academic performance for complete duration
+- Teaching Assistant for MAN-002 (Mathematical Methods) in senior year.
+<br>
+
 ## 👨‍💻 Experience
 
 **Software Development Engineer II** @ [Adobe Inc.](https://www.adobe.com/) _(July 2018 - Aug 2021)_ <br>
@@ -66,19 +77,23 @@ highly fluctuating daily foreign exchange rates.
 **Embedded Systems Project** 
 - used an FPGA board to display an image on a standard VGA display interface, using Verilog HDL.
 
-## 📌 EXTRACURRICULARS AND VOLUNTEER ACTIVITIES
+## Technical Skills
+Programming Languages: C, C++, Python, SQL, HTML, CSS, JavaScript ES6, React, Redux
+Frameworks: PyTorch, Keras, Tensorflow, NumPy
+Software Tools & Packages: XCode, MS Visual Studio, Eclipse, Xilinx ISE, SPICEo
 
-**Mentor, Technovation** - Mentored a senior group of six girls in developing a mobile application which aims to cater to real-world challenges of our society.
-**Mentor, C++ Bootcamp**  - Mentored a group of new campus graduates at Adobe to learn about C++ fundamentals and develop a C++ application.
-**Mentor, Student Mentorship Program**  - Guided a group of seven students aimed at better senior-junior interactions.
-**Member, Programming and Algorithms Group** - Organized programming lectures, events and competitions with the aim of improving the algorithmic and problem-solving ability of students.
-**Organizer, Departmental Cognizance, ECE** - Organized events ‘Spectrum’ and ‘Photonising’ for three consecutive years in Cognizance, the large-scale Annual Technical Festival of IIT Roorkee.
+## 📌 Extracurriculars and Volunteer Activities
+
+- **Mentor, Technovation**: Mentored a senior group of six girls in developing a mobile application which aims to cater to real-world challenges of our society.
+- **Mentor, C++ Bootcamp**: Mentored a group of new campus graduates at Adobe to learn about C++ fundamentals and develop a C++ application.
+- **Mentor, Student Mentorship Program**: Guided a group of seven students aimed at better senior-junior interactions.
+- **Member, Programming and Algorithms Group**: Organized programming lectures, events and competitions with the aim of improving the algorithmic and problem-solving ability of students.
+- **Organizer, Departmental Cognizance, ECE**: Organized events ‘Spectrum’ and ‘Photonising’ for three consecutive years in Cognizance, the large-scale Annual Technical Festival of IIT Roorkee.
 
 ## 🏆 Awards and Recognition
 - Best Paper Award for Sensor Routing Protocol with Optimized delay and overhead in mobile WSNs in the international conference ICFIRTP-2020.
 - Spot Award in 2019 & 2020 by Adobe for outstanding contribution to Adobe Creative Suite deliverables.
 - Best Project Award in Java and Web Technologies Boot Camp 2018 by Adobe.
-- Merit-Cum-Means Scholarship at IIT Roorkee for academic excellence in all four consecutive years.
 - IITR Development Award during Annual Techno-Hobby Exhibition, 2016.
 - KVPY Fellowship from the Government of India for inclination towards scientific research.
 - Title of Amul Vidya Shree for being a top rank holder in board examinations for standard X and XII.
