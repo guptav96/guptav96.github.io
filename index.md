@@ -87,7 +87,7 @@ highly fluctuating daily foreign exchange rates.
 - **Mentor, [Technovation](https://technovationchallenge.org/), 2020**: Mentored a senior group of six girls in developing a mobile application which aims to cater to real-world challenges of our society.
 - **Mentor, C++ Bootcamp, 2020**: Mentored a group of new campus graduates at Adobe to learn about C++ fundamentals and develop a C++ application.
 - **Mentor, Student Mentorship Program, 2017**: Guided a group of seven students aimed at better senior-junior interactions.
-- **Member, [Programming and Algorithms Group], 2015-16(http://pag.iitr.ac.in/)**: Organized programming lectures, events and competitions with the aim of improving the algorithmic and problem-solving ability of students.
+- **Member, [Programming and Algorithms Group](http://pag.iitr.ac.in/), 2015-16**: Organized programming lectures, events and competitions with the aim of improving the algorithmic and problem-solving ability of students.
 - **Organizer, Departmental Cognizance, ECE, 2015-17**: Organized events ‘Spectrum’ and ‘Photonising’ for three consecutive years in Cognizance, the large-scale Annual Technical Festival of IIT Roorkee.
 <br><br>
 
