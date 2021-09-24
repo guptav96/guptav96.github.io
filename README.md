@@ -7,15 +7,15 @@ _Passionate about Machine Learning and AI, software development and finance._
 
 ## 🏫 Education
 
-**Masters in Computer Science** @ [Purdue University](https://www.purdue.edu/), West Lafayette _(August 2021 - Present) <br>
+**Masters in Computer Science** @ [Purdue University](https://www.purdue.edu/), West Lafayette _(August 2021 - Present)_ <br>
 - Also employed as Teaching Assistant in Computer Science Department for CS251 
+<br><br>
 **Bachelor of Technology** @ [IIT Roorkee](https://www.iitr.ac.in/Main/pages/_en_Indian_Institute_of_Technology_Roorkee__en_.html), India _(July 2014 - May 2018)
 - Majored in Electronics and Communication Engineering, and minor in Computer Science.
 - GPA of 8.733 out of 10.
 - Awarded Merit Scholarship based on academic performance for complete duration
 - Teaching Assistant for MAN-002 (Mathematical Methods) in senior year.
-<br>
-
+<br><br>
 ## 👨‍💻 Experience
 
 **Software Development Engineer II** @ [Adobe Inc.](https://www.adobe.com/) _(July 2018 - Aug 2021)_ <br>
@@ -23,7 +23,6 @@ _Passionate about Machine Learning and AI, software development and finance._
 - Integrated Cloud Documents, Neural Filters, Sharesheet, Timeline and various other plugins in Adobe flagship applications - Photoshop, XD, Illustrator, InDesign and Premier Pro to build a platform agnostic robust framework in order to drive customer acquisition and improve customer experience.
 - **_Technologies used:_** C++, Python, NodeJS, HTML, CSS, Javascript ES6, React, Redux
 <br><br>
-
 **Research Intern, Big Data Experience Lab, Adobe Inc.** _(May 2017 - July 2017)_ <br>
 _(Mentor: Anandhavelu Natarajan)_ <br>
 - Developed a novel technique in natural language processing and deep learning using LSTM to obtain state-of-the-art
@@ -32,14 +31,12 @@ results for predicting style breaches in text.
 - Patent issued for the work is
 - **_Technologies used:_** Python, Deep Learning, Natural Language Processing, Recurrent Neural Networks.
 <br><br>
-
 **Summer Research Fellow** @ [CEERI, Pilani](https://www.ceeri.res.in/) _(May 2016 - July 2016)_ <br>
 _(Mentor: Dr. S.A. Akbar and Dr. Santanu Chaudhury)_ <br>
 - Analyzed time-series data from semiconductor gas sensors in response to different atmospheric gases by performing pattern recognition techniques in varying environmental conditions in a custom laboratory setting.
 - Implemented a model to predict the concentration of gases using an ensemble of supervised learning algorithms.
 - **_Technologies used:_** MATLAB, Machine Learning, Sequence Modeling.
 <br><br>
-
 **Research Fellow** @ Railtel-IIT Roorkee Centre of Excellence, [RICET](http://ricet.iitr.ac.in/) _(Dec 2015 - Jan 2016)_ <br>
 _(Mentor: Prof. Dharmendra Singh)_ <br>
 - Proposed a model using Image Processing to compute vegetation indices that identify crop and forest area.
@@ -56,24 +53,20 @@ _(Mentor: Prof. Pyari Mohan Pradhan, IIT Roorkee)_ <br>
 - Simulated location aware sensor routing protocol in NS2 simulator to demonstrate its superiority against traditional AODV routing protocol.
 - Developed distributed cooperative localization algorithm based on maximum likelihood (ML) and second-order cone programming (SOCP) to solve the localization issue in the network.
 <br><br> 
-
 **Hand Sign Character Recognition** _(Jan 2017 - April 2017)_<br>
 _(Mentor: Dr. Debashis Ghosh, Professor, IIT Roorkee)_ <br>
 - Performed Skin Segmentation based on YCbCr and RGB model to segment the hand from input images.
 - Employed CNN by learning feature maps using STL-10 database and evaluated the results with LibSVM while
 recognizing static gestures.
 <br><br>
-
 **Daily Foreign Rates Exchange Prediction** _(March 2017 - April 2017)_<br>
 _(Mentor: Dr G.N. Pillai, Professor, IIT Roorkee)_ <br>
 - Implemented four different time-forecasting models – ARIMA, GARCH and SVR (RBF and Linear Kernel) to predict
 highly fluctuating daily foreign exchange rates.
 <br><br>
-
 **Cashless Campus** _(November 2015 - March 2016)_<br>
 - Developed a biometric authentication device to make cashless secure payments using Arduino and Raspberry Pi technologies.
 <br><br>
-
 **Embedded Systems Project** 
 - used an FPGA board to display an image on a standard VGA display interface, using Verilog HDL.
 
