@@ -20,34 +20,26 @@ results for predicting style breaches in text.
 - Devised a model to provide consistent style to the text using structural and lexical transformations.
 - Patent issued for the work is
 - **_Technologies used:_** Python, Deep Learning, Natural Language Processing, Recurrent Neural Networks.
-
+<br><br>
 
 **Summer Research Fellow** @ [CEERI, Pilani](https://www.ceeri.res.in/) _(May 2016 - July 2016)_ <br>
 _(Mentor: Dr. S.A. Akbar and Dr. Santanu Chaudhury)_ <br>
 - Analyzed time-series data from semiconductor gas sensors in response to different atmospheric gases by performing pattern recognition techniques in varying environmental conditions in a custom laboratory setting.
 - Implemented a model to predict the concentration of gases using an ensemble of supervised learning algorithms.
+- **_Technologies used:_** MATLAB, Machine Learning, Sequence Modeling.
+<br><br>
 
-# Header 1
-## Header 2
-### Header 3
+**Research Fellow** @ Railtel-IIT Roorkee Centre of Excellence, [RICET](http://ricet.iitr.ac.in/) _(Dec 2015 - Jan 2016)_ <br>
+_(Mentor: Prof. Dharmendra Singh)_ <br>
+- Proposed a model using Image Processing to compute vegetation indices that identify crop and forest area.
+- Developed a satellite-based online information system for crop monitoring at district level.
+- **_Technologies used:_** MATLAB, Image Processing, Exiftool.
+<br><br>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/guptav96/digital-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 💻 Projects
+**Hand Sign Character Recognition** _(Jan 2017 - April 2017)_<br>
+_(Mentor: Dr. Debashis Ghosh, Professor, IIT Roorkee)_ <br>
+- Performed Skin Segmentation based on YCbCr and RGB model to segment the hand from input images.
+- Employed CNN by learning feature maps using STL-10 database and evaluated the results with LibSVM while
+recognizing static gestures.
+<br><br>
