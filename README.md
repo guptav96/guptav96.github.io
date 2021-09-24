@@ -9,14 +9,14 @@ _Passionate about Machine Learning and AI, software development and finance._
 
 **Masters in Computer Science** @ [Purdue University](https://www.purdue.edu/), West Lafayette _(August 2021 - Present)_ <br>
 - Also employed as Teaching Assistant in Computer Science Department for CS251.
-<br><br>
+<br>
 
 **Bachelor of Technology** @ [IIT Roorkee](https://www.iitr.ac.in/Main/pages/_en_Indian_Institute_of_Technology_Roorkee__en_.html), India _(July 2014 - May 2018)_
 - Majored in Electronics and Communication Engineering, and minor in Computer Science.
 - GPA of 8.733 out of 10.
 - Awarded Merit Scholarship based on academic performance for complete duration
 - Teaching Assistant for MAN-002 (Mathematical Methods) in senior year.
-<br><br>
+
 ## 👨‍💻 Experience
 
 **Software Development Engineer II** @ [Adobe Inc.](https://www.adobe.com/) _(July 2018 - Aug 2021)_ <br>
