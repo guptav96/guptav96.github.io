@@ -16,6 +16,7 @@ _Passionate about Machine Learning and AI, software development and finance._
 - GPA of _8.733_ out of _10_.
 - Awarded Merit Scholarship based on academic performance for complete duration
 - Teaching Assistant for MAN-002 (Mathematical Methods) in senior year.
+<br><br>
 
 ## 👨‍💻 Experience
 
@@ -50,6 +51,7 @@ _(Mentor: Prof. Dharmendra Singh)_ <br>
 
 ## 🖺 Patent
 **Vivek Gupta**, Basava Raj K.,  Pranav Ravindra Maneriker, Anandhevelu Natarajan, "**[Predicting style breaches within textual content](https://patents.google.com/patent/US20200250375A1/en)**", Pub. No.: US 2019/0147034A1.
+<br><br>
 
 ## 💻 Projects
 **LASeR Routing in Distributed Cooperative Localized Mobile WSNs** _(July 2017 - April 2018)_<br>
@@ -77,11 +79,13 @@ highly fluctuating daily foreign exchange rates.
 
 **Embedded Systems Project** 
 - used an FPGA board to display an image on a standard VGA display interface, using Verilog HDL.
+<br><br>
 
 ## Technical Skills
-Programming Languages: C, C++, Python, SQL, HTML, CSS, JavaScript ES6, React, Redux
-Frameworks: PyTorch, Keras, Tensorflow, NumPy
-Software Tools & Packages: XCode, MS Visual Studio, Eclipse, Xilinx ISE, SPICEo
+- **Programming Languages:** C, C++, Python, SQL, HTML, CSS, JavaScript ES6, React, Redux
+- **Frameworks*:* PyTorch, Keras, Tensorflow, NumPy
+- **Software Tools & Packages:** XCode, MS Visual Studio, Eclipse, Xilinx ISE, SPICE
+<br><br>
 
 ## 📌 Extracurriculars and Volunteer Activities
 
@@ -90,6 +94,7 @@ Software Tools & Packages: XCode, MS Visual Studio, Eclipse, Xilinx ISE, SPICEo
 - **Mentor, Student Mentorship Program**: Guided a group of seven students aimed at better senior-junior interactions.
 - **Member, [Programming and Algorithms Group](http://pag.iitr.ac.in/)**: Organized programming lectures, events and competitions with the aim of improving the algorithmic and problem-solving ability of students.
 - **Organizer, Departmental Cognizance, ECE**: Organized events ‘Spectrum’ and ‘Photonising’ for three consecutive years in Cognizance, the large-scale Annual Technical Festival of IIT Roorkee.
+<br><br>
 
 ## 🏆 Awards and Recognition
 - Best Paper Award for Sensor Routing Protocol with Optimized delay and overhead in mobile WSNs in the international conference ICFIRTP-2020.
