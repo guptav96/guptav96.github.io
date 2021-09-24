@@ -30,7 +30,6 @@ _(Mentor: Anandhavelu Natarajan)_ <br>
 - Developed a novel technique in natural language processing and deep learning using LSTM to obtain state-of-the-art
 results for predicting style breaches in text.
 - Devised a model to provide consistent style to the text using structural and lexical transformations.
-- Patent issued for the work is
 - **_Technologies used:_** Python, Deep Learning, Natural Language Processing, Recurrent Neural Networks.
 <br><br>
 
@@ -62,8 +61,7 @@ _(Mentor: Prof. Pyari Mohan Pradhan, IIT Roorkee)_ <br>
 **Hand Sign Character Recognition** _(Jan 2017 - April 2017)_<br>
 _(Mentor: Dr. Debashis Ghosh, Professor, IIT Roorkee)_ <br>
 - Performed Skin Segmentation based on YCbCr and RGB model to segment the hand from input images.
-- Employed CNN by learning feature maps using STL-10 database and evaluated the results with LibSVM while
-recognizing static gestures.
+- Employed CNN by learning feature maps using STL-10 database and evaluated the results with LibSVM while recognizing static gestures.
 <br><br>
 
 **Daily Foreign Rates Exchange Prediction** _(March 2017 - April 2017)_<br>
