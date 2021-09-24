@@ -68,20 +68,11 @@ highly fluctuating daily foreign exchange rates.
 
 ## 📌 EXTRACURRICULARS AND VOLUNTEER ACTIVITIES
 
-**Mentor, Technovation**
-- Mentored a senior group of six girls in developing a mobile application which aims to cater to real-world challenges of our society.
-
-**Mentor, C++ Bootcamp** 
-- Mentored a group of new campus graduates at Adobe to learn about C++ fundamentals and develop a C++ application.
-
-**Mentor, Student Mentorship Program** 
-- Guided a group of seven students aimed at better senior-junior interactions.
-
-**Member, Programming and Algorithms Group**
-- Organized programming lectures, events and competitions with the aim of improving the algorithmic and problem-solving ability of students.
-
-**Organizer, Departmental Cognizance, ECE**
-- Organized events ‘Spectrum’ and ‘Photonising’ for three consecutive years in Cognizance, the large-scale Annual Technical Festival of IIT Roorkee.
+**Mentor, Technovation** - Mentored a senior group of six girls in developing a mobile application which aims to cater to real-world challenges of our society.
+**Mentor, C++ Bootcamp**  - Mentored a group of new campus graduates at Adobe to learn about C++ fundamentals and develop a C++ application.
+**Mentor, Student Mentorship Program**  - Guided a group of seven students aimed at better senior-junior interactions.
+**Member, Programming and Algorithms Group** - Organized programming lectures, events and competitions with the aim of improving the algorithmic and problem-solving ability of students.
+**Organizer, Departmental Cognizance, ECE** - Organized events ‘Spectrum’ and ‘Photonising’ for three consecutive years in Cognizance, the large-scale Annual Technical Festival of IIT Roorkee.
 
 ## 🏆 Awards and Recognition
 - Best Paper Award for Sensor Routing Protocol with Optimized delay and overhead in mobile WSNs in the international conference ICFIRTP-2020.
