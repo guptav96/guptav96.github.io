@@ -49,7 +49,7 @@ _(Mentor: Prof. Dharmendra Singh)_ <br>
 - **_Technologies used:_** MATLAB, Image Processing, Exiftool.
 <br><br>
 
-## 🖺 Patent
+## 📄 Patent
 **Vivek Gupta**, Basava Raj K.,  Pranav Ravindra Maneriker, Anandhevelu Natarajan, "**[Predicting style breaches within textual content](https://patents.google.com/patent/US20200250375A1/en)**", Pub. No.: US 2019/0147034A1.
 <br><br>
 
@@ -77,13 +77,9 @@ highly fluctuating daily foreign exchange rates.
 - Developed a biometric authentication device to make cashless secure payments using Arduino and Raspberry Pi technologies.
 <br><br>
 
-**Embedded Systems Project** 
-- used an FPGA board to display an image on a standard VGA display interface, using Verilog HDL.
-<br><br>
-
 ## Technical Skills
 - **Programming Languages:** C, C++, Python, SQL, HTML, CSS, JavaScript ES6, React, Redux
-- **Frameworks*:* PyTorch, Keras, Tensorflow, NumPy
+- **Frameworks**: PyTorch, Keras, Tensorflow, NumPy
 - **Software Tools & Packages:** XCode, MS Visual Studio, Eclipse, Xilinx ISE, SPICE
 <br><br>
 
