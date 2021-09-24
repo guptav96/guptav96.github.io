@@ -14,7 +14,6 @@ _Passionate about Machine Learning and AI, software development and finance._
 **Bachelor of Technology** @ [IIT Roorkee](https://www.iitr.ac.in/Main/pages/_en_Indian_Institute_of_Technology_Roorkee__en_.html), India _(July 2014 - May 2018)_
 - Majored in Electronics and Communication Engineering, and minor in Computer Science.
 - GPA of _8.733_ out of _10_.
-- Awarded Merit Scholarship based on academic performance for complete duration
 - Teaching Assistant for MAN-002 (Mathematical Methods) in senior year.
 <br><br>
 
