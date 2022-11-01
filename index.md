@@ -1,27 +1,32 @@
-# Vivek Gupta
+# About Me
 
-_Pursuing Masters in Computer Science from Purdue University._ <br>
 _Passionate about Machine Learning and AI, software development and finance._
 
-(765)-701-9946 / [Email](mailto:gupta690@purdue.edu) / [LinkedIn](https://www.linkedin.com/in/guptav96/) / [GitHub](https://github.com/guptav96/)
+(765)-701-9946 / [LinkedIn](https://www.linkedin.com/in/guptav96/) / [Resume](https://purdue0-my.sharepoint.com/:b:/g/personal/gupta690_purdue_edu/EabjK8-bCr5DtozDyN_TBI0BiD6L14KQ-p-MB1Hhiszr2Q?e=K240hu) / [GitHub](https://github.com/guptav96/)
+
+I am a second year graduate student in the department of Computer Science at [Purdue University](https://www.purdue.edu/). My interests span a broad range of sub-fields in Computer Science, including Deep Learning, Reinforcement Learning, Robotics and Computer Vision. I am working on my graduate thesis under the supervision of [Prof. Ahmed Qureshi](https://qureshiahmed.github.io/#research) in the area of multi-agent rearrangement planning. I have also worked with [Prof. Kamyar Azizzadenesheli](https://www.cs.purdue.edu/homes/kamyar/index.html) in the area of reinforcement learning. 
+
+Prior to my graduate studies, I worked at Adobe Systems for three years as Software Development Engineer (2018-2019) and Software Development Engineer II (2020-2021), where I learned valuable professional skills. I worked on developing and maintaining an extensibility platform which served in-house platform teams at Adobe and external developers to develop and deploy new features and plugins inside Adobe flagship applications. I graduated from Indian Institute of Technology, Roorkee in 2018 with minors in Electronics and Communication Engineering, along with majors in Computer Science.
+
+I like to spend my leisure time outdoors, doing hiking and adventure sports. Apart from this, I play table tennis and shuttle badminton. I also enjoy playing board games (big fan of Catan!).
+
+Email: **gupta690@purdue.edu**
 
 ## 🏫 Education
 
 **Masters in Computer Science** @ [Purdue University](https://www.purdue.edu/), West Lafayette _(August 2021 - Present)_ <br>
-- Employed as Teaching Assistant in Computer Science Department for CS251-Data Structures.
+- Thesis advised by Prof. Kamyar Azizzadenesheli and Prof. Ahmed Qureshi
 <br>
 
 **Bachelor of Technology** @ [IIT Roorkee](https://www.iitr.ac.in/Main/pages/_en_Indian_Institute_of_Technology_Roorkee__en_.html), India _(July 2014 - May 2018)_
 - Majored in Electronics and Communication Engineering, and minor in Computer Science.
-- GPA of _8.733_ out of _10_.
-- Teaching Assistant for MAN-002 (Mathematical Methods) in senior year.
 <br><br>
 
 ## 👨‍💻 Experience
 
 **Software Development Engineer II** @ [Adobe Inc.](https://www.adobe.com/) _(July 2018 - Aug 2021)_ <br>
-- Worked on an internal open-source Adobe framework ([UXP](https://www.adobe.io/photoshop/uxp/)) that provides extensibility for multi-platform application development using familiar web technologies such as React and HTML.
-- Integrated Cloud Documents, Neural Filters, Sharesheet, Timeline and various other plugins in Adobe flagship applications - Photoshop, XD, Illustrator, InDesign and Premier Pro to build a platform agnostic robust framework in order to drive customer acquisition and improve customer experience.
+- Worked on developing an internal open-source Adobe framework ([UXP](https://www.adobe.io/photoshop/uxp/)) that provides extensibility for multi-platform application development using familiar web technologies such as React and HTML.
+- Integrated Cloud Documents, Neural Filters, Sharesheet, Timeline and various other plugins in Adobe flagship applications - Photoshop, XD, Illustrator, InDesign and Premier Pro in order to drive customer acquisition and improve customer experience.
 - **_Technologies used:_** C++, Python, NodeJS, HTML, CSS, Javascript ES6, React, Redux
 <br><br>
 
@@ -79,22 +84,3 @@ highly fluctuating daily foreign exchange rates.
 - **Frameworks**: PyTorch, Keras, Tensorflow, NumPy
 - **Software Tools & Packages:** XCode, MS Visual Studio, Eclipse, Xilinx ISE, SPICE
 <br><br>
-
-## 📌 Extracurriculars and Volunteer Activities
-
-<!-- ![Volunteer](/assets/bag_dist.jpeg) -->
-
-- **Mentor, [Technovation](https://technovationchallenge.org/), 2020**: Mentored a senior group of six girls in developing a mobile application which aims to cater to real-world challenges of our society.
-- **Mentor, C++ Bootcamp, 2020**: Mentored a group of new campus graduates at Adobe to learn about C++ fundamentals and develop a C++ application.
-- **Mentor, Student Mentorship Program, 2017**: Guided a group of seven students aimed at better senior-junior interactions.
-- **Member, [Programming and Algorithms Group](http://pag.iitr.ac.in/), 2015-16**: Organized programming lectures, events and competitions with the aim of improving the algorithmic and problem-solving ability of students.
-- **Organizer, Departmental Cognizance, ECE, 2015-17**: Organized events ‘Spectrum’ and ‘Photonising’ for three consecutive years in Cognizance, the large-scale Annual Technical Festival of IIT Roorkee.
-<br><br>
-
-## 🏆 Awards and Recognition
-- Best Paper Award for Sensor Routing Protocol with Optimized delay and overhead in mobile WSNs in the international conference ICFIRTP-2020.
-- Spot Award in 2019 & 2020 by Adobe for outstanding contribution to Adobe Creative Suite deliverables.
-- Best Project Award in Java and Web Technologies Boot Camp 2018 by Adobe.
-- IITR Development Award during Annual [Techno-Hobby Exhibition](https://srishti.iitr.ac.in/), 2016.
-- [KVPY Fellowship](http://www.kvpy.iisc.ernet.in/main/index.htm) in 2014 from the Government of India for inclination towards scientific research.
-- Title of Amul Vidya Shree for being a top rank holder in board examinations for standard X and XII.
