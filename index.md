@@ -1,15 +1,13 @@
 # About Me
 _Passionate about Machine Learning and AI, software development and finance._
 
-(765)-701-9946 / [LinkedIn](https://www.linkedin.com/in/guptav96/) / [Resume](https://purdue0-my.sharepoint.com/:b:/g/personal/gupta690_purdue_edu/EabjK8-bCr5DtozDyN_TBI0BiD6L14KQ-p-MB1Hhiszr2Q?e=K240hu) / [GitHub](https://github.com/guptav96/)
-
 I am a second year graduate student in the [Department of Computer Science](https://www.cs.purdue.edu/) at [Purdue University](https://www.purdue.edu/). My interests span a broad range of sub-fields in Computer Science, including Deep Learning, Reinforcement Learning, Robotics and Computer Vision. I am working on my graduate thesis under the supervision of [Prof. Ahmed Qureshi](https://qureshiahmed.github.io/#research) in the area of multi-agent rearrangement planning. I have also worked with [Prof. Kamyar Azizzadenesheli](https://www.cs.purdue.edu/homes/kamyar/index.html) in the area of reinforcement learning. 
 
 Prior to my graduate studies, I worked at Adobe Systems for three years as Software Development Engineer (2018-2019) and Software Development Engineer II (2020-2021), where I learned valuable technical and professional skills. I worked on developing and maintaining an extensibility platform which served in-house platform teams at Adobe and external developers to develop and deploy new features and plugins inside Adobe flagship applications. I graduated from [Indian Institute of Technology, Roorkee](https://www.iitr.ac.in/) in 2018 with minors in Electronics and Communication Engineering, along with majors in Computer Science.
 
 I like to spend my leisure time outdoors, doing hiking and adventure sports. Apart from this, I play table tennis and shuttle badminton. I also enjoy playing board games (big fan of Catan!).
 
-Email: **gupta690@purdue.edu**
+I'm currently looking for full-time Software Engineering or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at **gupta690@purdue.edu**.
 
 ## 🏫 Education
 **Masters in Computer Science** @ [Purdue University](https://www.purdue.edu/), West Lafayette _(August 2021 - Present)_ <br>
