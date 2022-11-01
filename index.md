@@ -34,9 +34,11 @@ I believe in the fact that knowledge increases by sharing but not by saving. It 
 
 ## 👨‍💻 Experience
 **Software Development Engineer II** @ [Adobe Inc.](https://www.adobe.com/) _(July 2018 - Aug 2021)_
+<div>
 ![Adobe](/assets/adobe.png)
 - Worked on developing an internal open-source Adobe framework ([UXP](https://www.adobe.io/photoshop/uxp/)) that provides extensibility for multi-platform application development using familiar web technologies such as React
 - **_Technologies used:_** C++, Python, NodeJS, HTML, CSS, Javascript ES6, React, Redux
+</div>
 <br>
 
 **Research Intern, Big Data Experience Lab, Adobe Inc.** _(May 2017 - July 2017)_
