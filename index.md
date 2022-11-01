@@ -33,33 +33,29 @@ I believe in the fact that knowledge increases by sharing but not by saving. It 
 ## Technical Skills
 
 **Programming Languages:** C, C++, Python, SQL, HTML, CSS, JavaScript ES6, React, Redux
+
 **Frameworks**: PyTorch, Keras, Tensorflow, NumPy
+
 **Software Tools & Packages:** XCode, MS Visual Studio, Eclipse, Xilinx ISE, SPICE
-<br><br>
 
 ## 👨‍💻 Experience
 
-<div class="special-class" markdown="1">
-![image alt <](/assets/coral_lab.png)
 **Graduate Researcher** @[Cognitive Robot Autonomy and Learning Lab](https://corallab.net/) _(May 2022 - Present)_
 - Working on multi-agent rearrangement planning under the guidance of Prof. Ahmed Qureshi
-</div>
+<br>
 
 **Software Development Engineer II** @ [Adobe Inc.](https://www.adobe.com/) _(July 2018 - Aug 2021)_
-![image alt <](/assets/adobe.png)
 - Worked on developing an internal open-source Adobe framework ([UXP](https://www.adobe.io/photoshop/uxp/)) that provides extensibility for multi-platform application development using familiar web technologies such as React
 - **_Technologies used:_** C++, Python, NodeJS, HTML, CSS, Javascript ES6, React, Redux
 <br>
 
 **Research Intern, Big Data Experience Lab, Adobe Inc.** _(May 2017 - July 2017)_
-![image alt <](/assets/adobe.png)
 _(Mentor: Anandhavelu Natarajan)_ <br>
 - Proposed a recurrent neural network architecture based on LSTM to predict style breaches in a collaborative document
 - **_Technologies used:_** Python, Deep Learning, Natural Language Processing, Recurrent Neural Networks
 <br>
 
 **Summer Research Fellow** @ [CEERI, Pilani](https://www.ceeri.res.in/) _(May 2016 - July 2016)_
-![image alt <](/assets/ceeri.png)
 _(Mentor: Dr. S.A. Akbar and Dr. Santanu Chaudhury)_ <br>
 - Studied the responses of atmospheric gas sensors in various environment conditions using pattern recognition techniques
 - **_Technologies used:_** MATLAB, Machine Learning, Sequence Modeling
