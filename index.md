@@ -20,7 +20,7 @@ Email: **gupta690@purdue.edu**
 
 **Bachelor of Technology** @ [IIT Roorkee](https://www.iitr.ac.in/Main/pages/_en_Indian_Institute_of_Technology_Roorkee__en_.html), India _(July 2014 - May 2018)_
 - Majored in Electronics and Communication Engineering, and minor in Computer Science
-<br><br>
+<br>
 
 ## 🏫 Teaching
 
@@ -33,57 +33,56 @@ I believe in the fact that knowledge increases by sharing but not by saving. It 
 
 ## 👨‍💻 Experience
 
-**Software Development Engineer II** @ [Adobe Inc.](https://www.adobe.com/) _(July 2018 - Aug 2021)_ <br>
+**Software Development Engineer II** @ [Adobe Inc.](https://www.adobe.com/) _(July 2018 - Aug 2021)_
 - Worked on developing an internal open-source Adobe framework ([UXP](https://www.adobe.io/photoshop/uxp/)) that provides extensibility for multi-platform application development using familiar web technologies such as React and HTML
 - Integrated Cloud Documents, Neural Filters, Sharesheet, Timeline and various other plugins in Adobe flagship applications - Photoshop, XD, Illustrator, InDesign and Premier Pro in order to drive customer acquisition and improve customer experience
 - **_Technologies used:_** C++, Python, NodeJS, HTML, CSS, Javascript ES6, React, Redux
-<br><br>
+<br>
 
-**Research Intern, Big Data Experience Lab, Adobe Inc.** _(May 2017 - July 2017)_ <br>
+**Research Intern, Big Data Experience Lab, Adobe Inc.** _(May 2017 - July 2017)_
 _(Mentor: Anandhavelu Natarajan)_ <br>
 - Proposed a recurrent neural network architecture based on LSTM to predict style breaches in a collaborative document
 - Achieved state-of-the-art results for Style Change Detection, PAN CLEF 2017
 - **_Technologies used:_** Python, Deep Learning, Natural Language Processing, Recurrent Neural Networks.
-<br><br>
+<br>
 
-**Summer Research Fellow** @ [CEERI, Pilani](https://www.ceeri.res.in/) _(May 2016 - July 2016)_ <br>
+**Summer Research Fellow** @ [CEERI, Pilani](https://www.ceeri.res.in/) _(May 2016 - July 2016)_
 _(Mentor: Dr. S.A. Akbar and Dr. Santanu Chaudhury)_ <br>
 - Studied the responses of atmospheric gas sensors in various environment conditions using pattern recognition techniques
 - Analyzed the time-series data to extract relevant features and predict gas concentration using an ensemble of supervised models
 - **_Technologies used:_** MATLAB, Machine Learning, Sequence Modeling.
-<br><br>
+<br>
 
 ## 📄 Patents and Publications
 **Vivek Gupta**, Basava Raj K.,  Pranav Ravindra Maneriker, Anandhevelu Natarajan, "**[Predicting style breaches within textual content](https://patents.google.com/patent/US20200250375A1/en)**", Pub. No.: US 2019/0147034A1.
 
 **Vivek Gupta**, Naresh Kumar, Aditi Sharma, and Ajith Abraham. **[Sensor routing protocol with optimized delay and
 overheads in mobile based wsn](https://www.softcomputing.net/vivek2021.pdf)**. Journal of Information Assurance & Security, 16(4), 2021.
-
-<br><br>
+<br>
 
 ## 💻 Projects
 **Efficient Exploration using Bayesian Deep-Q Networks**
 - Implemented Bayesian Deep Q-Networks in PyTorch and conducted experiments on 8+ atari games outperforming Double Deep
 Q-Networks in training time (about 5M fewer interactions) and improved returns (by a median of 300%)
-<br><br>
+<br>
 
 **Traffic Prediction using Deep Learning**
 - Collaborated with two members to implement Graph Multi-Attention Networks for predicting Los Angeles traffic flow
 - Achieved better long-horizon prediction results (1.8% less MAE) than the traditional LSTM model
+<br>
 
 **Sign Language Character Recognition**_<br>
 - Performed Skin Segmentation using YCbCr model and morphological operations to segment hand from images with 90% accuracy
 - Trained a convolutional neural network classifier using STL-10 database to recognize hand gestures
-<br><br>
+<br>
 
 **Daily Foreign Rates Exchange Prediction**<br>
-- Implemented four different time-forecasting models – ARIMA, GARCH and SVR (RBF and Linear Kernel) to predict
-highly fluctuating daily foreign exchange rates.
-<br><br>
+- Implemented four different time-forecasting models – ARIMA, GARCH and Support Vector Regression to predict highly volatile daily foreign exchange rates.
+<br>
 
-**Cashless Campus**<br>
-- Developed a biometric authentication device to make cashless secure payments using Arduino and Raspberry Pi technologies.
-<br><br>
+**Cashless Campus**
+- Developed a biometric authentication device to make cashless secure payments using Arduino and Raspberry Pi technologies. Received IITR Development Award during Annual Technical Exhibit 2016 for the project.
+<br>
 
 ## Technical Skills
 - **Programming Languages:** C, C++, Python, SQL, HTML, CSS, JavaScript ES6, React, Redux
