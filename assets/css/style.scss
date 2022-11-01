@@ -12,6 +12,11 @@ header {
     text-align: left;
   }
 }
+section {
+  p, ul, ol, table, pre, dl {
+    margin: 0 0 10px;
+  }
+}
 
 .wrapper {
     width:1110px;
