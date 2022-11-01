@@ -39,9 +39,11 @@ I believe in the fact that knowledge increases by sharing but not by saving. It 
 
 ## 👨‍💻 Experience
 
-**Graduate Researcher** @[Cognitive Robot Autonomy and Learning Lab](https://corallab.net/) _(May 2022 - Present)_
+<div class="special-class" markdown="1">
 ![image alt <](/assets/coral_lab.png)
-- Working on multi-agent rearrangement planning under the guidance of Prof. Ahmed Qureshi 
+**Graduate Researcher** @[Cognitive Robot Autonomy and Learning Lab](https://corallab.net/) _(May 2022 - Present)_
+- Working on multi-agent rearrangement planning under the guidance of Prof. Ahmed Qureshi
+</div>
 
 **Software Development Engineer II** @ [Adobe Inc.](https://www.adobe.com/) _(July 2018 - Aug 2021)_
 ![image alt <](/assets/adobe.png)
