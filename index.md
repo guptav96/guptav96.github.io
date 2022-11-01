@@ -13,7 +13,7 @@ I'm currently looking for full-time Software Engineering or Machine Learning opp
 
 ## 🏫 Education
 
-**Masters in Computer Science** @ [Purdue University](https://www.purdue.edu/), West Lafayette _(August 2021 - Present)_ <br>
+**Masters in Computer Science** @ [Purdue University](https://www.purdue.edu/), West Lafayette _(August 2021 - May 2023)_ <br>
 - Thesis advised by Prof. Kamyar Azizzadenesheli and Prof. Ahmed Qureshi
 <br>
 
@@ -32,11 +32,9 @@ I believe in the fact that knowledge increases by sharing but not by saving. It 
 
 ## Technical Skills
 
-**Programming Languages:** C, C++, Python, SQL, HTML, CSS, JavaScript ES6, React, Redux
-
-**Frameworks**: PyTorch, Keras, Tensorflow, NumPy
-
-**Software Tools & Packages:** XCode, MS Visual Studio, Eclipse, Xilinx ISE, SPICE
+**Programming Languages:** C, C++, Python, SQL, HTML, CSS, JavaScript ES6, React, Redux    
+**Frameworks**: PyTorch, Keras, Tensorflow, NumPy   
+**Software Tools & Packages:** XCode, MS Visual Studio, Eclipse, Xilinx ISE, SPICE   
 
 ## 👨‍💻 Experience
 
@@ -64,25 +62,31 @@ _(Mentor: Dr. S.A. Akbar and Dr. Santanu Chaudhury)_ <br>
 ## 💻 Projects
 
 **Continuous Deep-Q Learning with Invertible Neural Network**
+
 - Implemented off-policy deep-Q learning algorithm for continuous action space environments using the idea of invertible neural networks and achieved 138% better average returns than Twin-delayed DDPG on OpenAI gym classical control tasks
 
 **Efficient Exploration using Bayesian Deep-Q Networks**
+
 - Implemented BDQN in PyTorch and conducted experiments on atari games outperforming DDQN in training time (about 5M fewer interactions) and improved returns (by a median of 300%)
 <br>
 
 **Traffic Prediction using Deep Learning**
+
 - Implemented Graph Multi-Attention Networks for predicting Los Angeles traffic flow and achieved better long-horizon prediction results (1.8% less MAE) than the traditional LSTM model
 <br>
 
-**Sign Language Character Recognition**_<br>
+**Sign Language Character Recognition**
+
 - Performed Skin Segmentation using YCbCr model and morphological operations to segment hand from images with 90% accuracy
 - Trained a convolutional neural network classifier using STL-10 database to recognize hand gestures
 <br>
 
-**Daily Foreign Rates Exchange Prediction**<br>
+**Daily Foreign Rates Exchange Prediction**
+
 - Implemented four different time-forecasting models – ARIMA, GARCH and Support Vector Regression to predict highly volatile daily foreign exchange rates.
 <br>
 
 **Cashless Campus**
+
 - Developed a biometric authentication device to make cashless secure payments using Arduino and Raspberry Pi technologies. Received IITR Development Award during Annual Technical Exhibit 2016 for the project.
 <br>
