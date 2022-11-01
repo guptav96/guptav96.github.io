@@ -9,6 +9,8 @@ Prior to my graduate studies, I worked at Adobe Systems for three years as Softw
 
 I like to spend my leisure time outdoors, doing hiking and adventure sports. Apart from this, I play table tennis and shuttle badminton. I also enjoy playing board games (big fan of Catan!).
 
+My resume can be found [here](https://purdue0-my.sharepoint.com/:b:/g/personal/gupta690_purdue_edu/EabjK8-bCr5DtozDyN_TBI0BiD6L14KQ-p-MB1Hhiszr2Q?e=K240hu).
+
 I'm currently looking for full-time Software Engineering or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at **gupta690@purdue.edu**.
 
 ## 🏫 Education
