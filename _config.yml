@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title:  /assets/profile.jpeg
-description: Vivek Gupta
+logo:  /assets/profile.jpeg
+title: Vivek Gupta
 show_downloads: false
 google_analytics:
