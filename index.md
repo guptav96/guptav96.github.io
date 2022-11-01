@@ -1,4 +1,6 @@
+
 # About Me
+
 _Passionate about Machine Learning and AI, software development and finance._
 
 I am a second year graduate student in the [Department of Computer Science](https://www.cs.purdue.edu/) at [Purdue University](https://www.purdue.edu/). My interests span a broad range of sub-fields in Computer Science, including Deep Learning, Reinforcement Learning, Robotics and Computer Vision. I am working on my graduate thesis under the supervision of [Prof. Ahmed Qureshi](https://qureshiahmed.github.io/#research) in the area of multi-agent rearrangement planning. I have also worked with [Prof. Kamyar Azizzadenesheli](https://www.cs.purdue.edu/homes/kamyar/index.html) in the area of reinforcement learning. 
@@ -10,6 +12,7 @@ I like to spend my leisure time outdoors, doing hiking and adventure sports. Apa
 I'm currently looking for full-time Software Engineering or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at **gupta690@purdue.edu**.
 
 ## 🏫 Education
+
 **Masters in Computer Science** @ [Purdue University](https://www.purdue.edu/), West Lafayette _(August 2021 - Present)_ <br>
 - Thesis advised by Prof. Kamyar Azizzadenesheli and Prof. Ahmed Qureshi
 <br>
@@ -19,6 +22,7 @@ I'm currently looking for full-time Software Engineering or Machine Learning opp
 <br>
 
 ## 🏫 Teaching
+
 _An investment in knowledge always pays the best interest. - Benjamin Franklin_
 
 I believe in the fact that knowledge increases by sharing but not by saving. It helps me to understand the concepts on a higher level, and motivates me and the students to appreciate the importance and impact of the subject. I have been a teaching assistant to the following courses:
@@ -27,33 +31,40 @@ I believe in the fact that knowledge increases by sharing but not by saving. It 
 - Fall 2022: Statistical Machine Learning (CS578)
 
 ## Technical Skills
+
 **Programming Languages:** C, C++, Python, SQL, HTML, CSS, JavaScript ES6, React, Redux
 **Frameworks**: PyTorch, Keras, Tensorflow, NumPy
 **Software Tools & Packages:** XCode, MS Visual Studio, Eclipse, Xilinx ISE, SPICE
 <br><br>
 
 ## 👨‍💻 Experience
+
+**Graduate Researcher** @[Cognitive Robot Autonomy and Learning Lab](https://corallab.net/) _(May 2022 - Present)_
+![image alt <](/assets/coral_lab.png)
+- Working on multi-agent rearrangement planning under the guidance of Prof. Ahmed Qureshi 
+
 **Software Development Engineer II** @ [Adobe Inc.](https://www.adobe.com/) _(July 2018 - Aug 2021)_
-<div>
-![Adobe](/assets/adobe.png)
+![image alt <](/assets/adobe.png)
 - Worked on developing an internal open-source Adobe framework ([UXP](https://www.adobe.io/photoshop/uxp/)) that provides extensibility for multi-platform application development using familiar web technologies such as React
 - **_Technologies used:_** C++, Python, NodeJS, HTML, CSS, Javascript ES6, React, Redux
-</div>
 <br>
 
 **Research Intern, Big Data Experience Lab, Adobe Inc.** _(May 2017 - July 2017)_
+![image alt <](/assets/adobe.png)
 _(Mentor: Anandhavelu Natarajan)_ <br>
 - Proposed a recurrent neural network architecture based on LSTM to predict style breaches in a collaborative document
 - **_Technologies used:_** Python, Deep Learning, Natural Language Processing, Recurrent Neural Networks
 <br>
 
 **Summer Research Fellow** @ [CEERI, Pilani](https://www.ceeri.res.in/) _(May 2016 - July 2016)_
+![image alt <](/assets/ceeri.png)
 _(Mentor: Dr. S.A. Akbar and Dr. Santanu Chaudhury)_ <br>
 - Studied the responses of atmospheric gas sensors in various environment conditions using pattern recognition techniques
 - **_Technologies used:_** MATLAB, Machine Learning, Sequence Modeling
 <br>
 
 ## 💻 Projects
+
 **Continuous Deep-Q Learning with Invertible Neural Network**
 - Implemented off-policy deep-Q learning algorithm for continuous action space environments using the idea of invertible neural networks and achieved 138% better average returns than Twin-delayed DDPG on OpenAI gym classical control tasks
 
