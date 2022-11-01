@@ -1,5 +1,4 @@
 # About Me
-
 _Passionate about Machine Learning and AI, software development and finance._
 
 (765)-701-9946 / [LinkedIn](https://www.linkedin.com/in/guptav96/) / [Resume](https://purdue0-my.sharepoint.com/:b:/g/personal/gupta690_purdue_edu/EabjK8-bCr5DtozDyN_TBI0BiD6L14KQ-p-MB1Hhiszr2Q?e=K240hu) / [GitHub](https://github.com/guptav96/)
@@ -13,7 +12,6 @@ I like to spend my leisure time outdoors, doing hiking and adventure sports. Apa
 Email: **gupta690@purdue.edu**
 
 ## 🏫 Education
-
 **Masters in Computer Science** @ [Purdue University](https://www.purdue.edu/), West Lafayette _(August 2021 - Present)_ <br>
 - Thesis advised by Prof. Kamyar Azizzadenesheli and Prof. Ahmed Qureshi
 <br>
@@ -23,7 +21,6 @@ Email: **gupta690@purdue.edu**
 <br>
 
 ## 🏫 Teaching
-
 _An investment in knowledge always pays the best interest. - Benjamin Franklin_
 
 I believe in the fact that knowledge increases by sharing but not by saving. It helps me to understand the concepts on a higher level, and motivates me and the students to appreciate the importance and impact of the subject. I have been a teaching assistant to the following courses:
@@ -31,8 +28,13 @@ I believe in the fact that knowledge increases by sharing but not by saving. It 
 - Spring 2022: Compilers: Principles and Practice (CS352)
 - Fall 2022: Statistical Machine Learning (CS578)
 
-## 👨‍💻 Experience
+## Technical Skills
+- **Programming Languages:** C, C++, Python, SQL, HTML, CSS, JavaScript ES6, React, Redux
+- **Frameworks**: PyTorch, Keras, Tensorflow, NumPy
+- **Software Tools & Packages:** XCode, MS Visual Studio, Eclipse, Xilinx ISE, SPICE
+<br><br>
 
+## 👨‍💻 Experience
 **Software Development Engineer II** @ [Adobe Inc.](https://www.adobe.com/) _(July 2018 - Aug 2021)_
 - Worked on developing an internal open-source Adobe framework ([UXP](https://www.adobe.io/photoshop/uxp/)) that provides extensibility for multi-platform application development using familiar web technologies such as React and HTML
 - Integrated Cloud Documents, Neural Filters, Sharesheet, Timeline and various other plugins in Adobe flagship applications - Photoshop, XD, Illustrator, InDesign and Premier Pro in order to drive customer acquisition and improve customer experience
@@ -51,13 +53,6 @@ _(Mentor: Dr. S.A. Akbar and Dr. Santanu Chaudhury)_ <br>
 - Studied the responses of atmospheric gas sensors in various environment conditions using pattern recognition techniques
 - Analyzed the time-series data to extract relevant features and predict gas concentration using an ensemble of supervised models
 - **_Technologies used:_** MATLAB, Machine Learning, Sequence Modeling.
-<br>
-
-## 📄 Patents and Publications
-**Vivek Gupta**, Basava Raj K.,  Pranav Ravindra Maneriker, Anandhevelu Natarajan, "**[Predicting style breaches within textual content](https://patents.google.com/patent/US20200250375A1/en)**", Pub. No.: US 2019/0147034A1.
-
-**Vivek Gupta**, Naresh Kumar, Aditi Sharma, and Ajith Abraham. **[Sensor routing protocol with optimized delay and
-overheads in mobile based wsn](https://www.softcomputing.net/vivek2021.pdf)**. Journal of Information Assurance & Security, 16(4), 2021.
 <br>
 
 ## 💻 Projects
@@ -83,9 +78,3 @@ Q-Networks in training time (about 5M fewer interactions) and improved returns (
 **Cashless Campus**
 - Developed a biometric authentication device to make cashless secure payments using Arduino and Raspberry Pi technologies. Received IITR Development Award during Annual Technical Exhibit 2016 for the project.
 <br>
-
-## Technical Skills
-- **Programming Languages:** C, C++, Python, SQL, HTML, CSS, JavaScript ES6, React, Redux
-- **Frameworks**: PyTorch, Keras, Tensorflow, NumPy
-- **Software Tools & Packages:** XCode, MS Visual Studio, Eclipse, Xilinx ISE, SPICE
-<br><br>
