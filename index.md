@@ -21,7 +21,7 @@ I'm currently looking for full-time Software Engineering or Machine Learning opp
 - Majored in Electronics and Communication Engineering, and minor in Computer Science
 <br>
 
-## 🏫 Teaching
+## 📚 Teaching
 
 _An investment in knowledge always pays the best interest. - Benjamin Franklin_
 
@@ -30,7 +30,7 @@ I believe in the fact that knowledge increases by sharing but not by saving. It 
 - Spring 2022: Compilers: Principles and Practice (CS352)
 - Fall 2022: Statistical Machine Learning (CS578)
 
-## Technical Skills
+## 🎯 Technical Skills
 
 **Programming Languages:** C, C++, Python, SQL, HTML, CSS, JavaScript ES6, React, Redux    
 **Frameworks**: PyTorch, Keras, Tensorflow, NumPy   
@@ -44,19 +44,19 @@ I believe in the fact that knowledge increases by sharing but not by saving. It 
 
 **Software Development Engineer II** @ [Adobe Inc.](https://www.adobe.com/) _(July 2018 - Aug 2021)_
 - Worked on developing an internal open-source Adobe framework ([UXP](https://www.adobe.io/photoshop/uxp/)) that provides extensibility for multi-platform application development using familiar web technologies such as React
-- **_Technologies used:_** C++, Python, NodeJS, HTML, CSS, Javascript ES6, React, Redux
+- _Technologies used:_ C++, Python, NodeJS, HTML, CSS, Javascript ES6, React, Redux
 <br>
 
 **Research Intern, Big Data Experience Lab, Adobe Inc.** _(May 2017 - July 2017)_
 _(Mentor: Anandhavelu Natarajan)_ <br>
 - Proposed a recurrent neural network architecture based on LSTM to predict style breaches in a collaborative document
-- **_Technologies used:_** Python, Deep Learning, Natural Language Processing, Recurrent Neural Networks
+- _Technologies used:_ Python, Deep Learning, Natural Language Processing, Recurrent Neural Networks
 <br>
 
 **Summer Research Fellow** @ [CEERI, Pilani](https://www.ceeri.res.in/) _(May 2016 - July 2016)_
 _(Mentor: Dr. S.A. Akbar and Dr. Santanu Chaudhury)_ <br>
 - Studied the responses of atmospheric gas sensors in various environment conditions using pattern recognition techniques
-- **_Technologies used:_** MATLAB, Machine Learning, Sequence Modeling
+- _Technologies used:_ MATLAB, Machine Learning, Sequence Modeling
 <br>
 
 ## 💻 Projects
