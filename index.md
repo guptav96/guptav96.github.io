@@ -30,13 +30,7 @@ _An investment in knowledge always pays the best interest. - Benjamin Franklin_
 I believe in the fact that knowledge increases by sharing but not by saving. It helps me to understand the concepts on a higher level, and motivates me and the students to appreciate the importance and impact of the subject. I have been a teaching assistant to the following courses:
 - Fall 2021: Data Structures and Algorithms (CS251)
 - Spring 2022: Compilers: Principles and Practice (CS352)
-- Fall 2022: Statistical Machine Learning (CS578)
-
-## 🎯 Technical Skills
-
-**Programming Languages:** C, C++, Python, SQL, HTML, CSS, JavaScript ES6, React, Redux    
-**Frameworks**: PyTorch, Keras, Tensorflow, NumPy   
-**Software Tools & Packages:** XCode, MS Visual Studio, Eclipse, Xilinx ISE, SPICE   
+- Fall 2022: Statistical Machine Learning (CS578)  
 
 ## 👨‍💻 Experience
 
@@ -63,7 +57,7 @@ _(Mentor: Dr. S.A. Akbar and Dr. Santanu Chaudhury)_ <br>
 
 ## 💻 Projects
 
-**Continuous Deep-Q Learning with Invertible Neural Network**
+**Continuous Deep-Q Learning with Invertible Neural Networks**
 
 - Implemented off-policy deep-Q learning algorithm for continuous action space environments using the idea of invertible neural networks and achieved 138% better average returns than Twin-delayed DDPG on OpenAI gym classical control tasks
 
