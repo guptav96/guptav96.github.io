@@ -381,6 +381,10 @@ h3 {
   top: 35px;
 }
 
+.card .role .big-title{
+  top: 55px;
+}
+
 .card li a {
   margin-right: 0;
   color: #333;
