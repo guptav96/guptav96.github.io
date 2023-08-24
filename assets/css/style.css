@@ -15,9 +15,9 @@
   border-radius: 50% !important;
 }
 
-#about.flow-text {
-  font-size: 1.3rem;
-  line-height: 1.8rem;
+#about.flow-text p{
+  font-size: 1.3rem !important;
+  line-height: 1.8rem !important;
 }
 
 .profile-pic img {
@@ -317,13 +317,6 @@ h3 {
   height: 100vh;
 }
 
-/* Original */
-
-/* #intro.section {
-  background: url(../../assets/img/white-ai-wallpaper.jpg) no-repeat top center/cover;
-  position: relative;
-} */
-
 #intro.section {
   background: #87CEFA repeat;
   position: relative;
@@ -336,13 +329,6 @@ h3 {
   position: absolute;
   top: 0;
 }
-
-/* #intro.section .container *:not(span) {
-  font-weight: 300;
-  line-height: 150%;
-  padding: 0 30px;
-  text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
-} */
 
 #intro.section .container *:not(span) {
   font-weight: 300;
@@ -568,7 +554,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #008073 !important;
+  background-color: #4169e1 !important;
 }
 
 /* .teal {
