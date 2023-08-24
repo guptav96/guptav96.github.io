@@ -15,6 +15,11 @@
   border-radius: 50% !important;
 }
 
+#about.flow-text {
+  font-size: 1.3rem;
+  line-height: 1.8rem;
+}
+
 .profile-pic img {
   width: 100%;
   height: auto;
@@ -320,7 +325,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #a7ffeb repeat;
+  background: #87CEFA repeat;
   position: relative;
 }
 
@@ -553,7 +558,7 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #008073 !important;
+  color: #4169e1 !important;
 }
 
 /* .teal-text {
