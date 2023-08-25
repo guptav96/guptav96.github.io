@@ -15,7 +15,7 @@
   border-radius: 50% !important;
 }
 
-.container p{
+.container p, div{
   font-size: 1.3rem !important;
   line-height: 1.8rem !important;
 }
