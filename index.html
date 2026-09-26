@@ -3,265 +3,452 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="description" content="Vivek Gupta — Senior Software Engineer focused on fraud/risk platforms, payments, distributed systems, AI infrastructure, and large-scale backend systems." />
+  <meta name="description" content="Vivek Gupta — Senior Software Engineer building fraud, risk, payments, distributed systems, and AI-powered platforms." />
   <meta name="author" content="Vivek Gupta" />
   <meta property="og:title" content="Vivek Gupta | Senior Software Engineer" />
-  <meta property="og:description" content="Senior Software Engineer focused on fraud/risk platforms, payments, distributed systems, AI infrastructure, and large-scale backend systems." />
+  <meta property="og:description" content="Senior Software Engineer focused on fraud, risk, payments, distributed systems, machine learning, and platform engineering." />
   <meta property="og:url" content="https://guptav96.github.io/" />
   <meta property="og:type" content="website" />
+  <meta name="theme-color" content="#081120" />
   <title>Vivek Gupta | Senior Software Engineer</title>
   <style>
     :root {
-      --bg: #0f172a;
-      --panel: #111827;
-      --panel-2: #1f2937;
-      --text: #e5e7eb;
-      --muted: #9ca3af;
-      --accent: #14b8a6;
-      --accent-2: #38bdf8;
-      --border: rgba(255, 255, 255, 0.10);
-      --max: 1060px;
+      --bg: #030712;
+      --bg-soft: #0b1120;
+      --panel: rgba(15, 23, 42, 0.76);
+      --panel-strong: rgba(15, 23, 42, 0.94);
+      --line: rgba(148, 163, 184, 0.18);
+      --text: #e5eefb;
+      --muted: #98a6bd;
+      --accent: #34d399;
+      --accent-2: #60a5fa;
+      --accent-3: #c084fc;
+      --shadow: 0 30px 80px rgba(2, 6, 23, 0.45);
+      --radius: 26px;
+      --max: 1180px;
     }
 
     * { box-sizing: border-box; }
-
+    html { scroll-behavior: smooth; }
     body {
       margin: 0;
       font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      line-height: 1.6;
       color: var(--text);
-      background: radial-gradient(circle at top left, rgba(20, 184, 166, 0.18), transparent 30%),
-                  radial-gradient(circle at top right, rgba(56, 189, 248, 0.14), transparent 34%),
-                  var(--bg);
+      background:
+        radial-gradient(circle at top left, rgba(52, 211, 153, 0.18), transparent 28%),
+        radial-gradient(circle at top right, rgba(96, 165, 250, 0.16), transparent 32%),
+        radial-gradient(circle at 50% 18%, rgba(192, 132, 252, 0.10), transparent 28%),
+        linear-gradient(180deg, #0a1120 0%, #040816 55%, #02040b 100%);
+      line-height: 1.6;
     }
 
-    a { color: var(--accent-2); text-decoration: none; }
-    a:hover { text-decoration: underline; }
+    a { color: inherit; text-decoration: none; }
+    img { display: block; max-width: 100%; }
 
     .nav {
       position: sticky;
       top: 0;
-      z-index: 10;
-      backdrop-filter: blur(14px);
-      background: rgba(15, 23, 42, 0.84);
-      border-bottom: 1px solid var(--border);
+      z-index: 20;
+      backdrop-filter: blur(18px);
+      background: rgba(2, 6, 23, 0.72);
+      border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+    }
+
+    .nav-inner,
+    main,
+    .footer-inner {
+      width: min(calc(100% - 32px), var(--max));
+      margin: 0 auto;
     }
 
     .nav-inner {
-      max-width: var(--max);
-      margin: 0 auto;
-      padding: 14px 22px;
       display: flex;
       justify-content: space-between;
       align-items: center;
-      gap: 16px;
+      gap: 20px;
+      padding: 16px 0;
     }
 
     .brand {
-      font-weight: 800;
-      color: #fff;
-      letter-spacing: -0.02em;
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+
+    .brand strong {
+      font-size: 1rem;
+      letter-spacing: -0.03em;
+    }
+
+    .brand span,
+    .eyebrow,
+    .muted,
+    .meta,
+    .nav-links a,
+    .section-copy {
+      color: var(--muted);
+    }
+
+    .brand span {
+      font-size: 0.9rem;
     }
 
     .nav-links {
       display: flex;
-      gap: 18px;
-      font-size: 0.95rem;
       flex-wrap: wrap;
+      gap: 18px;
       justify-content: flex-end;
+      font-size: 0.95rem;
     }
 
-    .nav-links a { color: var(--muted); }
-    .nav-links a:hover { color: #fff; text-decoration: none; }
+    .nav-links a:hover,
+    .text-link:hover,
+    .social-links a:hover {
+      color: #fff;
+    }
 
     main {
-      max-width: var(--max);
-      margin: 0 auto;
-      padding: 48px 22px 72px;
+      padding: 40px 0 80px;
     }
 
     .hero {
-      padding: 48px 0 34px;
+      display: grid;
+      grid-template-columns: minmax(0, 1.55fr) minmax(320px, 0.95fr);
+      gap: 24px;
+      align-items: stretch;
+    }
+
+    .panel,
+    .card {
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+    }
+
+    .panel {
+      background: linear-gradient(180deg, rgba(15, 23, 42, 0.92), rgba(15, 23, 42, 0.7));
+    }
+
+    .hero-copy {
+      position: relative;
+      overflow: hidden;
+      padding: 34px;
+    }
+
+    .hero-copy::after {
+      content: "";
+      position: absolute;
+      right: -30px;
+      bottom: -70px;
+      width: 240px;
+      height: 240px;
+      background: radial-gradient(circle, rgba(96, 165, 250, 0.18), transparent 70%);
+      pointer-events: none;
     }
 
     .eyebrow {
-      color: var(--accent);
-      font-weight: 700;
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      font-size: 0.8rem;
       text-transform: uppercase;
-      letter-spacing: 0.12em;
-      font-size: 0.78rem;
-      margin-bottom: 16px;
+      letter-spacing: 0.14em;
+      font-weight: 700;
+      margin-bottom: 18px;
+    }
+
+    .eyebrow::before {
+      content: "";
+      width: 30px;
+      height: 1px;
+      background: linear-gradient(90deg, var(--accent), transparent);
     }
 
     h1 {
-      font-size: clamp(2.5rem, 6vw, 5rem);
-      line-height: 1.02;
-      letter-spacing: -0.06em;
-      margin: 0 0 22px;
-      max-width: 920px;
+      margin: 0;
+      max-width: 12ch;
+      font-size: clamp(2.8rem, 6vw, 5rem);
+      line-height: 0.97;
+      letter-spacing: -0.07em;
     }
 
-    .hero p {
-      font-size: clamp(1.08rem, 2vw, 1.32rem);
-      color: var(--muted);
-      max-width: 850px;
-      margin: 0 0 26px;
+    .hero-copy p {
+      margin: 22px 0 0;
+      color: #ced9ea;
+      font-size: clamp(1.02rem, 1.7vw, 1.22rem);
+      max-width: 64ch;
     }
 
-    .buttons {
+    .hero-actions,
+    .metrics,
+    .chip-row,
+    .social-links,
+    .quick-facts,
+    .tag-list,
+    .company-strip,
+    .contact-actions {
       display: flex;
-      gap: 12px;
       flex-wrap: wrap;
-      margin-top: 24px;
+      gap: 12px;
+    }
+
+    .hero-actions { margin-top: 26px; }
+    .social-links { margin-top: 24px; }
+    .company-strip { margin-top: 26px; }
+
+    .button,
+    .chip,
+    .fact,
+    .tag,
+    .company {
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      background: rgba(148, 163, 184, 0.08);
     }
 
     .button {
       display: inline-flex;
       align-items: center;
       justify-content: center;
-      border: 1px solid var(--border);
-      border-radius: 999px;
-      padding: 11px 16px;
-      color: #fff;
-      background: rgba(255, 255, 255, 0.06);
-      font-weight: 650;
-    }
-
-    .button.primary {
-      background: linear-gradient(135deg, var(--accent), var(--accent-2));
-      color: #031016;
-      border: 0;
+      padding: 12px 18px;
+      font-weight: 700;
+      transition: transform 0.2s ease, background 0.2s ease, border-color 0.2s ease;
     }
 
     .button:hover {
-      text-decoration: none;
       transform: translateY(-1px);
+      background: rgba(148, 163, 184, 0.16);
+      border-color: rgba(255, 255, 255, 0.22);
+    }
+
+    .button.primary {
+      border: 0;
+      color: #04111a;
+      background: linear-gradient(135deg, var(--accent), var(--accent-2));
+    }
+
+    .social-links a { color: var(--muted); font-size: 0.96rem; }
+
+    .company,
+    .fact,
+    .tag,
+    .chip {
+      padding: 8px 12px;
+      color: #dbe7f7;
+      font-size: 0.9rem;
+    }
+
+    .hero-side {
+      padding: 26px;
+      display: grid;
+      gap: 18px;
+      background: linear-gradient(180deg, rgba(15, 23, 42, 0.98), rgba(15, 23, 42, 0.78));
+    }
+
+    .profile-card {
+      display: grid;
+      grid-template-columns: 112px minmax(0, 1fr);
+      gap: 18px;
+      align-items: center;
+    }
+
+    .profile-card img {
+      width: 112px;
+      height: 112px;
+      object-fit: cover;
+      border-radius: 24px;
+      border: 1px solid rgba(255, 255, 255, 0.18);
+    }
+
+    .profile-card strong {
+      display: block;
+      margin-bottom: 4px;
+      font-size: 1.24rem;
+    }
+
+    .meta {
+      font-size: 0.95rem;
+    }
+
+    .chip-row {
+      margin-top: 14px;
+    }
+
+    .sections,
+    .impact-grid,
+    .experience-grid,
+    .spotlight-grid,
+    .skills-grid,
+    .education-grid,
+    .about-grid {
+      display: grid;
+      gap: 18px;
     }
 
     .section {
-      margin-top: 48px;
+      margin-top: 58px;
     }
 
-    .section h2 {
-      font-size: 1.65rem;
-      margin: 0 0 18px;
-      letter-spacing: -0.03em;
-    }
-
-    .grid {
-      display: grid;
-      grid-template-columns: repeat(12, 1fr);
+    .section-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: end;
       gap: 16px;
+      margin-bottom: 18px;
     }
+
+    .section-header h2,
+    .card h3 {
+      margin: 0;
+      letter-spacing: -0.04em;
+    }
+
+    .section-header h2 {
+      font-size: 1.76rem;
+    }
+
+    .section-copy {
+      max-width: 64ch;
+      font-size: 0.98rem;
+    }
+
+    .about-grid {
+      grid-template-columns: minmax(0, 1.2fr) minmax(280px, 0.8fr);
+      align-items: start;
+    }
+
+    .lead {
+      margin: 0;
+      color: #d5dfef;
+      font-size: 1.05rem;
+    }
+
+    .quick-facts { margin-top: 18px; }
 
     .card {
-      background: linear-gradient(180deg, rgba(255,255,255,0.075), rgba(255,255,255,0.045));
-      border: 1px solid var(--border);
-      border-radius: 22px;
-      padding: 22px;
-      box-shadow: 0 18px 70px rgba(0, 0, 0, 0.18);
+      padding: 24px;
+      background: var(--panel);
     }
 
-    .span-4 { grid-column: span 4; }
-    .span-6 { grid-column: span 6; }
-    .span-12 { grid-column: span 12; }
+    .impact-grid {
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
 
-    .metric {
+    .metric-value {
       font-size: 2rem;
       line-height: 1;
-      font-weight: 850;
-      letter-spacing: -0.05em;
-      color: #fff;
+      font-weight: 800;
+      letter-spacing: -0.06em;
       margin-bottom: 8px;
     }
 
-    .metric-label {
-      color: var(--muted);
-      font-size: 0.96rem;
+    .metric-label,
+    .card p,
+    .card li {
+      color: #cbd6e6;
     }
 
-    .experience {
-      display: grid;
-      gap: 16px;
+    .experience-grid,
+    .spotlight-grid,
+    .skills-grid,
+    .education-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
     }
 
-    .role-header {
+    .timeline-top,
+    .spotlight-top {
       display: flex;
       justify-content: space-between;
+      align-items: start;
       gap: 12px;
       flex-wrap: wrap;
       margin-bottom: 10px;
     }
 
-    .role-title {
-      font-size: 1.12rem;
-      font-weight: 800;
-      color: #fff;
-    }
-
-    .company {
+    .role,
+    .kicker {
       color: var(--accent);
       font-weight: 700;
-    }
-
-    .date {
-      color: var(--muted);
-      font-size: 0.94rem;
-      white-space: nowrap;
+      margin-bottom: 6px;
     }
 
     ul {
-      margin: 10px 0 0;
-      padding-left: 20px;
-      color: var(--muted);
+      margin: 14px 0 0;
+      padding-left: 18px;
     }
 
-    li { margin: 8px 0; }
+    li { margin: 9px 0; }
 
-    .tags {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-      margin-top: 10px;
-    }
-
-    .tag {
-      border: 1px solid var(--border);
-      background: rgba(255,255,255,0.055);
-      color: #d1d5db;
-      padding: 6px 10px;
-      border-radius: 999px;
-      font-size: 0.9rem;
-    }
-
-    .muted { color: var(--muted); }
+    .tag-list { margin-top: 18px; }
 
     .footer {
-      margin-top: 64px;
-      padding-top: 24px;
-      border-top: 1px solid var(--border);
-      color: var(--muted);
-      font-size: 0.95rem;
+      margin-top: 76px;
+      border-top: 1px solid rgba(255, 255, 255, 0.06);
     }
 
-    @media (max-width: 780px) {
-      .nav-inner { align-items: flex-start; flex-direction: column; }
-      .span-4, .span-6 { grid-column: span 12; }
-      main { padding-top: 28px; }
-      .hero { padding-top: 24px; }
+    .footer-inner {
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+      flex-wrap: wrap;
+      padding: 22px 0 34px;
+      color: var(--muted);
+      font-size: 0.94rem;
+    }
+
+    @media (max-width: 1080px) {
+      .hero,
+      .about-grid,
+      .impact-grid,
+      .experience-grid,
+      .spotlight-grid,
+      .skills-grid,
+      .education-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    @media (max-width: 720px) {
+      .nav-inner,
+      .section-header,
+      .timeline-top,
+      .spotlight-top,
+      .footer-inner,
+      .profile-card {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      .profile-card {
+        display: flex;
+      }
+
+      .nav-links {
+        justify-content: flex-start;
+      }
+
+      .hero-copy,
+      .hero-side,
+      .card {
+        padding: 22px;
+      }
+
+      h1 { max-width: 11ch; }
     }
   </style>
 </head>
-
 <body>
   <nav class="nav">
     <div class="nav-inner">
-      <a class="brand" href="#top">Vivek Gupta</a>
+      <a class="brand" href="#top">
+        <strong>Vivek Gupta</strong>
+        <span>Senior Software Engineer</span>
+      </a>
       <div class="nav-links">
         <a href="#about">About</a>
         <a href="#experience">Experience</a>
+        <a href="#projects">Projects</a>
         <a href="#skills">Skills</a>
-        <a href="#research">Research</a>
         <a href="#contact">Contact</a>
         <a href="/assets/resume/Vivek_Gupta_Resume.pdf" target="_blank" rel="noopener">Resume</a>
       </div>
@@ -270,217 +457,337 @@
 
   <main id="top">
     <section class="hero">
-      <div class="eyebrow">Senior Software Engineer</div>
-      <h1>Fraud, risk, payments, and distributed backend systems.</h1>
-      <p>
-        I’m a Senior Software Engineer at Walmart Global Tech working on fraud prevention and risk platform systems
-        that support real-time decisioning at large scale. My work spans backend infrastructure, event-driven data
-        pipelines, fraud/risk signals, model and rule deployment, and cloud-native services.
-      </p>
-      <div class="buttons">
-        <a class="button primary" href="/assets/resume/Vivek_Gupta_Resume.pdf" target="_blank" rel="noopener">Download Resume</a>
-        <a class="button" href="mailto:gupta96v@gmail.com">Email Me</a>
-        <a class="button" href="https://linkedin.com/in/guptav96" target="_blank" rel="noopener">LinkedIn</a>
-        <a class="button" href="https://github.com/guptav96" target="_blank" rel="noopener">GitHub</a>
+      <div class="hero-copy panel">
+        <div class="eyebrow">Fraud · risk · payments · AI platforms</div>
+        <h1>Engineering systems that turn scale into advantage.</h1>
+        <p>
+          I’m a Senior Software Engineer at Walmart Global Tech, building fraud prevention and risk platform systems for
+          real-time decisioning. My work spans distributed backend services, event-driven pipelines, machine learning
+          integrations, developer platforms, and applied research across Walmart, Adobe, Medtronic, and Purdue.
+        </p>
+        <div class="hero-actions">
+          <a class="button primary" href="/assets/resume/Vivek_Gupta_Resume.pdf" target="_blank" rel="noopener">Download Resume</a>
+          <a class="button" href="mailto:gupta96v@gmail.com">Email Me</a>
+          <a class="button" href="https://www.linkedin.com/in/guptav96/" target="_blank" rel="noopener">LinkedIn</a>
+          <a class="button" href="https://github.com/guptav96" target="_blank" rel="noopener">GitHub</a>
+        </div>
+        <div class="social-links">
+          <a href="https://leetcode.com/guptav96" target="_blank" rel="noopener">LeetCode</a>
+          <a href="https://github.com/guptav96" target="_blank" rel="noopener">GitHub</a>
+          <a href="https://www.linkedin.com/in/guptav96/" target="_blank" rel="noopener">LinkedIn</a>
+        </div>
+        <div class="company-strip">
+          <span class="company">Walmart Global Tech</span>
+          <span class="company">Adobe</span>
+          <span class="company">Medtronic</span>
+          <span class="company">Purdue University</span>
+        </div>
       </div>
+
+      <aside class="hero-side panel">
+        <div class="profile-card">
+          <img src="/assets/img/my-passport-photo-square.jpg" alt="Portrait of Vivek Gupta" />
+          <div>
+            <strong>Vivek Gupta</strong>
+            <div class="meta">Backend, ML, and platform engineer</div>
+            <div class="chip-row">
+              <span class="chip">Distributed systems</span>
+              <span class="chip">Fraud platform</span>
+              <span class="chip">Applied AI</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <div class="meta">Selected outcomes</div>
+          <div class="quick-facts">
+            <span class="fact">15K writes/sec at scale</span>
+            <span class="fact">40%+ latency reduction</span>
+            <span class="fact">300 native plugins enabled</span>
+            <span class="fact">50% faster launches</span>
+          </div>
+        </div>
+        <div>
+          <div class="meta">Current focus areas</div>
+          <div class="tag-list">
+            <span class="tag">Kafka workflows</span>
+            <span class="tag">Low-latency services</span>
+            <span class="tag">Cloud migration</span>
+            <span class="tag">Model and rule deployment</span>
+            <span class="tag">Developer tooling</span>
+            <span class="tag">Observability</span>
+          </div>
+        </div>
+      </aside>
     </section>
 
     <section id="about" class="section">
-      <h2>About</h2>
-      <div class="grid">
-        <div class="card span-12">
-          <p class="muted">
-            Before Walmart, I completed my M.S. in Computer Science at Purdue University with a focus on machine
-            learning. I have also worked on C++ platform engineering, developer tooling, robotics/navigation software,
-            and applied ML research across Adobe, Medtronic, and Purdue.
-          </p>
-          <p class="muted">
-            I’m especially interested in building reliable, scalable systems in fintech, payments, fraud/risk,
-            trading technology, AI infrastructure, and data platforms — systems where correctness, latency,
-            observability, and operational stability matter.
+      <div class="section-header">
+        <div>
+          <h2>About</h2>
+          <p class="section-copy">
+            I like working on systems where reliability, correctness, scale, and speed all matter at once.
           </p>
         </div>
+      </div>
+      <div class="about-grid">
+        <div class="card">
+          <p class="lead">
+            Before Walmart, I built robot-assisted navigation software at Medtronic, worked on Adobe’s extensibility
+            platform for hundreds of native plugins, and completed my M.S. in Computer Science at Purdue with a
+            specialization in machine learning. I’ve also published robotics research and co-invented a U.S. patent in NLP.
+          </p>
+          <div class="quick-facts">
+            <span class="fact">M.S. Computer Science, Purdue</span>
+            <span class="fact">B.Tech, IIT Roorkee</span>
+            <span class="fact">IEEE RAL publication</span>
+            <span class="fact">U.S. Patent 10,650,094</span>
+          </div>
+        </div>
+        <div class="card">
+          <h3>What I’m best at</h3>
+          <p>
+            Designing backend platforms, building event-driven architectures, integrating ML into production systems,
+            and shipping durable engineering improvements that show up in performance, scale, and product impact.
+          </p>
+          <div class="tag-list">
+            <span class="tag">Backend architecture</span>
+            <span class="tag">Fraud &amp; risk systems</span>
+            <span class="tag">Cloud-native services</span>
+            <span class="tag">ML infrastructure</span>
+            <span class="tag">Platform engineering</span>
+          </div>
+        </div>
+      </div>
+    </section>
 
-        <div class="card span-4">
-          <div class="metric">15K</div>
-          <div class="metric-label">writes/sec scaled in fraud-platform workflows</div>
+    <section class="section">
+      <div class="section-header">
+        <div>
+          <h2>Selected impact</h2>
+          <p class="section-copy">A few numbers that summarize the breadth of the work.</p>
         </div>
-        <div class="card span-4">
-          <div class="metric">40%+</div>
-          <div class="metric-label">latency reduction from backend architecture modernization</div>
-        </div>
-        <div class="card span-4">
-          <div class="metric">$2.5B</div>
-          <div class="metric-label">annual fraud-loss prevention supported by Walmart’s platform</div>
-        </div>
+      </div>
+      <div class="impact-grid">
+        <article class="card">
+          <div class="metric-value">15K</div>
+          <div class="metric-label">writes/sec supported in fraud-platform workflows</div>
+        </article>
+        <article class="card">
+          <div class="metric-value">40%+</div>
+          <div class="metric-label">latency reduction from backend modernization</div>
+        </article>
+        <article class="card">
+          <div class="metric-value">300</div>
+          <div class="metric-label">native plugins enabled via platform work at Adobe</div>
+        </article>
+        <article class="card">
+          <div class="metric-value">50%</div>
+          <div class="metric-label">application launch-time improvement across flagship products</div>
+        </article>
       </div>
     </section>
 
     <section id="experience" class="section">
-      <h2>Experience</h2>
-      <div class="experience">
+      <div class="section-header">
+        <div>
+          <h2>Experience</h2>
+          <p class="section-copy">A mix of production engineering, research, and platform building.</p>
+        </div>
+      </div>
+      <div class="experience-grid">
         <article class="card">
-          <div class="role-header">
+          <div class="timeline-top">
             <div>
-              <div class="role-title">Senior Software Engineer, Fraud Platform</div>
-              <div class="company">Walmart Global Tech</div>
+              <div class="role">Senior Software Engineer · Fraud Platform</div>
+              <h3>Walmart Global Tech</h3>
             </div>
-            <div class="date">Jan 2024 – Present</div>
+            <div class="meta">Jan 2024 – Present</div>
           </div>
           <ul>
-            <li>Modernized event and advisory distributed systems by migrating SQL workloads to Cassandra, building Kafka-based event-driven workflows, and supporting GCP database migration across MariaDB, MongoDB, and Spanner.</li>
-            <li>Scaled backend fraud workflows to 15K writes/sec while reducing latency by over 40%.</li>
-            <li>Deployed fraud detection models and dynamic rules into production Java services with JavaScript/Python rule-execution engines.</li>
-            <li>Led GraalVM-based modernization of the fraud platform’s scripting engine, improving scalability and maintainability of rule execution.</li>
-            <li>Served as technical lead for returns-fraud and contact-risk initiatives from design through production rollout.</li>
+            <li>Modernized event and advisory distributed systems with Cassandra migration, Kafka-driven workflows, and GCP database migration support.</li>
+            <li>Scaled backend fraud workflows to 15K writes/sec while reducing latency by more than 40%.</li>
+            <li>Deployed fraud models and dynamic rules to production Java services using JavaScript and Python rule-execution engines.</li>
+            <li>Led GraalVM-based scripting modernization and drove returns-fraud and contact-risk initiatives from design to rollout.</li>
           </ul>
         </article>
 
         <article class="card">
-          <div class="role-header">
+          <div class="timeline-top">
             <div>
-              <div class="role-title">Senior Software Engineer</div>
-              <div class="company">Medtronic</div>
+              <div class="role">Senior Software Engineer</div>
+              <h3>Medtronic</h3>
             </div>
-            <div class="date">Oct 2023 – Jan 2024</div>
+            <div class="meta">Oct 2023 – Jan 2024</div>
           </div>
           <ul>
             <li>Designed and debugged C++ components for robot-assisted navigation systems used in spinal and cranial surgery procedures.</li>
-            <li>Contributed to design, implementation, and reliability testing in a safety-critical medical-device engineering environment.</li>
+            <li>Contributed to implementation and reliability testing in a safety-critical medical-device environment.</li>
           </ul>
         </article>
 
         <article class="card">
-          <div class="role-header">
+          <div class="timeline-top">
             <div>
-              <div class="role-title">Research Assistant</div>
-              <div class="company">Purdue University – National Air and Space Intelligence Center</div>
+              <div class="role">Full-stack Engineer / Research Assistant</div>
+              <h3>Purdue University</h3>
             </div>
-            <div class="date">Jan 2022 – Sep 2023</div>
+            <div class="meta">Aug 2021 – Aug 2023</div>
           </div>
           <ul>
-            <li>Built a .NET/Python digital forensics platform to mine terabyte-scale disk images through containerized microservices.</li>
-            <li>Implemented a Kafka-based analytics pipeline that boosted resource utilization 10x and integrated a React frontend through REST APIs.</li>
-            <li>Built a Neo4j knowledge graph modeling file/artifact relationships, reducing investigation time by about 30%.</li>
+            <li>Designed a containerized digital-forensics platform to mine disk images with tens of terabytes of data.</li>
+            <li>Implemented a Kafka-based analytics pipeline that reduced resource usage by 85% and made throughput configurable.</li>
+            <li>Built a Neo4j knowledge graph that decreased investigation time by about 30%.</li>
+            <li>Architected an RL policy with invertible neural networks, improving returns by 138% versus DDPG on benchmark tasks.</li>
           </ul>
         </article>
 
         <article class="card">
-          <div class="role-header">
+          <div class="timeline-top">
             <div>
-              <div class="role-title">Software Engineer II</div>
-              <div class="company">Adobe</div>
+              <div class="role">Software Engineer II</div>
+              <h3>Adobe</h3>
             </div>
-            <div class="date">Jul 2018 – Aug 2021</div>
+            <div class="meta">Jul 2018 – Aug 2021</div>
           </div>
           <ul>
-            <li>Built core C++/JavaScript/.NET/Python components for Adobe’s extensibility platform, enabling 300 native plugins across internal and external teams.</li>
-            <li>Revamped 10 core plugins and platform APIs, cutting application launch time by 50% across flagship Adobe products.</li>
-            <li>Led development of 20+ reusable React Native components, cutting feature-development effort 3x.</li>
+            <li>Built core C++, Objective-C, Python, .NET, and JavaScript framework components that enabled 300 native plugins.</li>
+            <li>Revamped 10+ core plugins and platform APIs, improving application launch time by 50% for 15M users.</li>
+            <li>Led development of 20+ reusable React Native components, improving feature-delivery velocity by 3x.</li>
+            <li>Received recognition for prototyping and resolving critical deployment bugs affecting Creative Suite delivery.</li>
+          </ul>
+        </article>
+      </div>
+    </section>
+
+    <section id="projects" class="section">
+      <div class="section-header">
+        <div>
+          <h2>Projects, research &amp; recognition</h2>
+          <p class="section-copy">Highlights pulled from research, patent work, applied ML, and mentoring.</p>
+        </div>
+      </div>
+      <div class="spotlight-grid">
+        <article class="card">
+          <div class="spotlight-top">
+            <div>
+              <div class="kicker">Publication</div>
+              <h3>MANER</h3>
+            </div>
+            <div class="meta">2023</div>
+          </div>
+          <p>Co-authored research on multi-agent neural rearrangement planning of objects in cluttered environments, published in IEEE Robotics and Automation Letters.</p>
+        </article>
+
+        <article class="card">
+          <div class="spotlight-top">
+            <div>
+              <div class="kicker">Patent</div>
+              <h3>U.S. Patent 10,650,094</h3>
+            </div>
+            <div class="meta">2020</div>
+          </div>
+          <p>Co-inventor on “Predicting Style Breaches Within Textual Content,” based on deep learning and NLP research at Adobe.</p>
+        </article>
+
+        <article class="card">
+          <div class="spotlight-top">
+            <div>
+              <div class="kicker">Selected ML projects</div>
+              <h3>Applied experimentation</h3>
+            </div>
+          </div>
+          <ul>
+            <li>Multi-robot rearrangement planning with vision transformers and improved success rate.</li>
+            <li>Political bias detection using contextual embeddings with 79.4% prediction accuracy.</li>
+            <li>Bayesian Deep-Q Networks in PyTorch with stronger returns than Double DQN on Atari tasks.</li>
+            <li>Group recommendation on Google AI Cloud using relational graph convolution.</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <div class="spotlight-top">
+            <div>
+              <div class="kicker">Leadership</div>
+              <h3>Mentoring &amp; awards</h3>
+            </div>
+          </div>
+          <ul>
+            <li>Led CSR education initiatives and mentored student and early-career engineering groups.</li>
+            <li>Received Adobe Spot Awards for technical contributions to Creative Suite deployments.</li>
+            <li>Won Best Project Award in Adobe’s Java and Web Technologies Boot Camp.</li>
           </ul>
         </article>
       </div>
     </section>
 
     <section id="skills" class="section">
-      <h2>Skills</h2>
-      <div class="grid">
-        <div class="card span-6">
-          <h3>Backend & Systems</h3>
-          <div class="tags">
-            <span class="tag">Java</span>
-            <span class="tag">Python</span>
-            <span class="tag">C++</span>
-            <span class="tag">REST APIs</span>
-            <span class="tag">Kafka</span>
-            <span class="tag">Microservices</span>
-            <span class="tag">Event-driven Architecture</span>
-            <span class="tag">GraalVM</span>
-            <span class="tag">Apache Spark</span>
-          </div>
+      <div class="section-header">
+        <div>
+          <h2>Skills</h2>
+          <p class="section-copy">Production engineering, cloud, data, ML, and frontend delivery.</p>
         </div>
-
-        <div class="card span-6">
-          <h3>Data, Cloud & DevOps</h3>
-          <div class="tags">
-            <span class="tag">GCP</span>
-            <span class="tag">AWS</span>
-            <span class="tag">BigQuery</span>
-            <span class="tag">Cassandra</span>
-            <span class="tag">Spanner</span>
-            <span class="tag">MongoDB</span>
-            <span class="tag">MariaDB</span>
-            <span class="tag">Docker</span>
-            <span class="tag">Kubernetes</span>
-            <span class="tag">Jenkins</span>
-            <span class="tag">Grafana</span>
-            <span class="tag">Prometheus</span>
-          </div>
-        </div>
-
-        <div class="card span-12">
-          <h3>ML & AI</h3>
-          <div class="tags">
-            <span class="tag">PyTorch</span>
-            <span class="tag">TensorFlow</span>
-            <span class="tag">NumPy</span>
-            <span class="tag">Pandas</span>
-            <span class="tag">scikit-learn</span>
-            <span class="tag">OpenCV</span>
-            <span class="tag">Fraud Models</span>
-            <span class="tag">Rule Engines</span>
-          </div>
-        </div>
+      </div>
+      <div class="skills-grid">
+        <article class="card">
+          <h3>Backend &amp; distributed systems</h3>
+          <p>Java, Python, C, C++, C#, Scala, Spring Boot, Node.js, Flask, REST APIs, GraphQL, Kafka, Apache Spark, microservices, event-driven architecture, GraalVM.</p>
+        </article>
+        <article class="card">
+          <h3>Data, databases &amp; cloud</h3>
+          <p>GCP Compute Engine, AWS EC2, AWS Lambda, AWS EKS, AWS S3, Cassandra, PostgreSQL, MySQL, MongoDB, Neo4j, Redis, Elasticsearch, Docker, Kubernetes, Jenkins, Grafana, Prometheus.</p>
+        </article>
+        <article class="card">
+          <h3>Machine learning &amp; research</h3>
+          <p>PyTorch, TensorFlow, NumPy, Pandas, scikit-learn, OpenCV, ROS2, NLTK, reinforcement learning, fraud models, rule engines, robotics and planning research.</p>
+        </article>
+        <article class="card">
+          <h3>Frontend &amp; product engineering</h3>
+          <p>React, React Native, Angular, JavaScript, HTML, CSS, webpack, design systems, developer tooling, and cross-functional product delivery.</p>
+        </article>
       </div>
     </section>
 
-    <section id="research" class="section">
-      <h2>Research & IP</h2>
-      <div class="grid">
-        <div class="card span-6">
-          <h3>MANER</h3>
-          <p class="muted">
-            Co-authored “MANER: Multi-Agent Neural Rearrangement Planning of Objects in Cluttered Environments,”
-            published in IEEE Robotics and Automation Letters.
-          </p>
-        </div>
-        <div class="card span-6">
-          <h3>U.S. Patent 10,650,094</h3>
-          <p class="muted">
-            Co-inventor on “Predicting Style Breaches Within Textual Content,” based on deep learning and NLP research at Adobe.
-          </p>
+    <section class="section">
+      <div class="section-header">
+        <div>
+          <h2>Education</h2>
         </div>
       </div>
-    </section>
-
-    <section id="education" class="section">
-      <h2>Education</h2>
-      <div class="grid">
-        <div class="card span-6">
+      <div class="education-grid">
+        <article class="card">
           <h3>Purdue University</h3>
-          <p class="muted">M.S. in Computer Science, Machine Learning Specialization</p>
-        </div>
-        <div class="card span-6">
+          <p>M.S. in Computer Science, specialization in Machine Learning, with robotics thesis work and teaching assistant experience in statistical machine learning.</p>
+        </article>
+        <article class="card">
           <h3>Indian Institute of Technology Roorkee</h3>
-          <p class="muted">B.Tech in Electronics & Communication Engineering, Minor in Computer Science</p>
-        </div>
+          <p>B.Tech in Electronics and Communication Engineering with a minor in Computer Science.</p>
+        </article>
       </div>
     </section>
 
     <section id="contact" class="section">
-      <h2>Contact</h2>
-      <div class="card">
-        <p class="muted">
-          Reach me at <a href="mailto:gupta96v@gmail.com">gupta96v@gmail.com</a>, connect on
-          <a href="https://linkedin.com/in/guptav96" target="_blank" rel="noopener">LinkedIn</a>, or view my work on
-          <a href="https://github.com/guptav96" target="_blank" rel="noopener">GitHub</a>.
-        </p>
-      </div>
+      <article class="card">
+        <div class="section-header">
+          <div>
+            <h2>Let’s connect</h2>
+            <p class="section-copy">I’m interested in high-impact engineering problems across backend infrastructure, fraud/risk, AI systems, and platform architecture.</p>
+          </div>
+        </div>
+        <div class="contact-actions">
+          <a class="button" href="mailto:gupta96v@gmail.com">gupta96v@gmail.com</a>
+          <a class="button" href="https://www.linkedin.com/in/guptav96/" target="_blank" rel="noopener">LinkedIn</a>
+          <a class="button" href="https://github.com/guptav96" target="_blank" rel="noopener">GitHub</a>
+          <a class="button" href="https://leetcode.com/guptav96" target="_blank" rel="noopener">LeetCode</a>
+        </div>
+      </article>
     </section>
-
-    <div class="footer">
-      © 2026 Vivek Gupta. Built for clarity, reliability, and signal.
-    </div>
   </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+      <span>© 2026 Vivek Gupta</span>
+      <span>Built for clarity, reliability, and signal.</span>
+    </div>
+  </footer>
 </body>
 </html>
